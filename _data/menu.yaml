@@ -1,0 +1,25 @@
+- title: Inizio
+  url: /
+- title: Il progetto
+  url: /progetto/
+  sub:
+    - title: Il progetto
+      url: /progetto/progetto
+    - title: Chi siamo
+      url: /progetto/chi-siamo
+    - title: Iniziative
+      url: /progetto/iniziative
+    - title: Contatti
+      url: /progetto/contatti
+- title: Scenari
+  url: /scenari/
+- title: "Scuole/Territorio"
+  url: /scuole_territorio/
+- title: Biografie
+  url: /biografie/
+- title: "Lavoro/Diritti"
+  url: /lavoro_diritti/
+- title: "Fonti/Archivi"
+  url: /fonti_archivi/
+- title: "Didattica/Formazione"
+  url: /didattica_formazione/

@@ -1,0 +1,35 @@
+title: Genere, lavoro e cultura tecnica tra passato e futuro
+description: >
+  Il progetto “Genere, lavoro e cultura tecnica tra passato e futuro” è promosso da Unione Donne in Italia – UDI di Bologna e Museo del Patrimonio industriale di Bologna, con il sostegno della Regione Emilia-Romagna (Assessorato al Bilancio, Riordino istituzionale, Risorse umane e Parti opportunità) e della Fondazione del Monte di Bologna e Ravenna. Ha inoltre ricevuto il patrocinio dell’Ufficio per l’Italia e San Marino dell’Organizzazione internazionale del lavoro. 
+logo: logo-rete-archivi-udi.jpg
+
+exclude:
+  - site
+  - __*
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+    sass_dir: _sass
+
+collections:
+  news:
+    output: true
+  progetto:
+    output: true
+  scenari:
+    output: true
+  scuole_territorio:
+    output: true
+  biografie:
+    output: true
+  lavoro_diritti:
+    output: true
+  fonti_archivi:
+    output: true
+  didattica_formazione:
+    output: true
+
+defaults:
+  - values:
+      layout: default

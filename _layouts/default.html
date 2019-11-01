@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<!-- For IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- For Resposive Device -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <meta name="description" content="{{ site.description }}">
+
+        <title>{{ site.title }}</title>
+
+		<!-- Favicon -->
+		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+
+
+		<!-- Main style sheet -->
+		<link rel="stylesheet" type="text/css" href="{{ "css/style.css" | relative_url }}">
+		<!-- responsive style sheet -->
+        <link rel="stylesheet" type="text/css" href="{{ "css/responsive.css" | relative_url }}">
+        
+        {% if page.custom_css %}
+            {% for css in page.custom_css %}
+                {% if css contains "http" %}
+                <link rel="stylesheet" href="{{ css }}">
+                {% else %}
+                <link rel="stylesheet" href={{"css/" | append: css | append: ".css" | relative_url }}>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+
+
+		<!-- Fix Internet Explorer ______________________________________-->
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="vendor/html5shiv.js"></script>
+			<script src="vendor/respond.js"></script>
+		<![endif]-->
+			
+	</head>
+
+	<body>
+		<div class="main-page-wrapper">
+
+
+
+			<!-- 
+			=============================================
+				Theme Header
+			============================================== 
+			-->
+			{% include header.html %}
+            
+            {{ content }}
+
+
+
+
+
+
+			<!--
+			=====================================================
+				Footer
+			=====================================================
+			-->
+			<footer>
+				<div class="container">
+					<a href="{{ "/" | relative_url }}" class="logo">
+						<img src="{{ "images/logo/logo.png" | relative_url }}" alt="{{ site.title }}">
+					</a>
+
+					<p>Sito web creato da <a href="https://bradypus.net" target="_blank">BraDypUS. Communicating Cultural Heritage</a></p>
+				</div>
+			</footer>
+
+
+
+
+			<!-- =============================================
+				Loading Transition
+			============================================== -->
+			<div id="loader-wrapper">
+				<div id="preloader_1">
+	                <span></span>
+	                <span></span>
+	                <span></span>
+	                <span></span>
+	                <span></span>
+	            </div>
+			</div>
+
+			
+	        <!-- Scroll Top Button -->
+			<button class="scroll-top tran3s p-color-bg">
+				<i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+			</button>
+
+
+
+
+		<!-- Js File_________________________________ -->
+
+		<!-- j Query -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+
+		<!-- Bootstrap JS -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+		<!-- Vendor js _________ -->
+		
+		<!-- revolution -->
+		<script src="{{"vendor/revolution/jquery.themepunch.tools.min.js" | relative_url }}"></script>
+		<script src="{{"vendor/revolution/jquery.themepunch.revolution.min.js" | relative_url }}"></script>
+		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.slideanims.min.js" | relative_url }}"></script>
+		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.layeranimation.min.js" | relative_url }}"></script>
+		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.navigation.min.js" | relative_url }}"></script>
+		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.kenburn.min.js" | relative_url }}"></script>
+		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.actions.min.js" | relative_url }}"></script>
+		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.video.min.js" | relative_url }}"></script>
+
+		<!-- Google map js -->
+		<!-- owl.carousel -->
+		<script type="text/javascript" src="{{"vendor/owl-carousel/owl.carousel.min.js"  | relative_url }}"></script>
+		<!-- mixitUp -->
+		<script type="text/javascript" src="{{"vendor/jquery.mixitup.min.js" | relative_url }}"></script>
+		<!-- Progress Bar js -->
+		<script type="text/javascript" src="{{"vendor/skills-master/jquery.skills.js" | relative_url }}"></script>
+		<!-- Validation -->
+		<script type="text/javascript" src="{{"vendor/contact-form/validate.js" | relative_url }}"></script>
+		<script type="text/javascript" src="{{"vendor/contact-form/jquery.form.js" | relative_url }}"></script>
+
+
+		<!-- Theme js -->
+        <script type="text/javascript" src="{{"js/theme.js" | relative_url }}"></script>
+        
+        {% if page.custom_js %}
+            {% for js in page.custom_js %}
+            {% if js contains "http" %}
+            <script src="{{ js }}"></script>
+            {% else %}
+            <script src={{ "js/" | append: js | append: ".js" | relative_url }}></script>
+            {% endif %}
+        
+            {% endfor %}
+        {% endif %}
+    
+
+		</div> <!-- /.main-page-wrapper -->
+	</body>
+</html>

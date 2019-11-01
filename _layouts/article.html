@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="main-page-wrapper">
+
+
+
+    <!--
+    =====================================================
+        Theme Inner page Banner
+    =====================================================
+    -->
+    <section class="inner-page-banner">
+        <div class="opacity">
+            <div class="container">
+                <h2>{{ site.title }}</h2>
+            </div> <!-- /.container -->
+        </div> <!-- /.opacity -->
+    </section> <!-- /.inner-page-banner -->
+    
+
+    
+    <article class="blog-details-page">
+        <div class="container">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 p-fix">
+                <div class="blog-details-post-wrapper">
+                    {% if page.img %}
+                        <img src="{{ page.img | relative_url }}" alt="{{ page.title }}">
+                    {% endif %}
+
+                    <div class="post-heading">
+                        <h1>{{ page.title }}</h1>
+                    </div>
+
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </article>
+</div>
