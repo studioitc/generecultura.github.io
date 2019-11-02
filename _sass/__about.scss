@@ -1,0 +1,44 @@
+/*** 
+
+====================================================================
+  About section
+====================================================================
+
+ ***/
+ #about-us {
+
+    .single-about-content {
+        text-align: center;
+        margin-top: 55px;
+        margin-bottom: 100px;
+      }
+
+      .icon {
+        width: 130px;
+        height: 130px;
+        margin: 0 auto;
+        line-height: 130px;
+        border-width: 2px;
+        font-size: 36px;
+        color:#292929;
+      }
+
+      h5 a {
+        color:#292929;
+        margin: 35px 0 20px 0;
+      }
+
+      .single-about-content a.more {
+        width: 130px;
+        line-height: 45px;
+        color:#292929;
+        border-width: 1px;
+        margin-top:22px;
+      }
+
+      .single-about-content a.more:hover,
+      .single-about-content:hover .icon {
+        color:#fff;
+      }
+
+ } 

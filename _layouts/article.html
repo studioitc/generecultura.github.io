@@ -24,16 +24,20 @@ layout: default
         <div class="container">
             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 p-fix">
                 <div class="blog-details-post-wrapper">
+                    <div class="post-heading">
+                        <h1>{{ page.title }}</h1>
+                    </div>
                     {% if page.img %}
                         <img src="{{ page.img | relative_url }}" alt="{{ page.title }}">
                     {% endif %}
 
-                    <div class="post-heading">
-                        <h1>{{ page.title }}</h1>
-                    </div>
-
+                    
                     {{ content }}
                 </div>
+                
+                {% assign gallery = page.permalink | split: "/" | last %}
+
+                {% include gallery.html gallery=gallery %}
             </div>
         </div>
     </article>

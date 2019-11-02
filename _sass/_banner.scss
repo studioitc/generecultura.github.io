@@ -1,0 +1,23 @@
+/*** 
+
+====================================================================
+  Theme Main Banner
+====================================================================
+
+ ***/
+.rev_slider_wrapper {
+    background: #000;
+}
+.banner h1,.banner h6,.banner .project-button {
+    color:#fff;
+}
+.banner h6 {
+    font-weight: 500;
+}
+.banner .project-button {
+    width: 170px;
+    line-height: 50px;
+    text-align: center;
+    border-width: 1px;
+    text-transform: uppercase;
+}

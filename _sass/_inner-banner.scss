@@ -1,0 +1,35 @@
+/*** 
+
+====================================================================
+  Inner Page Banner 
+====================================================================
+
+ ***/
+.inner-page-banner {
+    background: url(../images/css/header.jpg) no-repeat center;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 100px;
+
+    .opacity {
+        height: 100%;
+        background:rgba(0,0,0,0.5);
+        padding: 146px 0 70px 0;
+
+        h2 {
+            color:#fff;
+            margin-bottom: 18px;
+        }
+
+        ul li {
+            display: inline-block;
+            margin: 0 3px;
+            font-size: 18px;
+            color: #fff;
+
+            a {
+                color:#fff;
+            }
+        }
+    }
+}

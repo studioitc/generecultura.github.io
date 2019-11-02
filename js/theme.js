@@ -146,15 +146,6 @@ function mixitupGallery () {
   };
 }
 
-// Progress Bar
-function bootstrapProgress () {
-  var smartskill = $ ('.skills');
-  if(smartskill.length) {
-      smartskill.skill();
-  }
-}
-
-
 // Client SLider
 function clientSlider () {
   var cSldier = $(".client-slider");
@@ -278,14 +269,6 @@ function stickyHeader () {
   };
 }
 
-// Calendar
-function cladendar () {
-  var calender = $('#blog-calendar');
-  if(calender.length) {
-      calender.monthly();
-  }
-}
-
 // Tooggle Home page menu click Function 
 function subMenuExpend () {
   if($(".theme-main-header").length) {
@@ -306,12 +289,10 @@ jQuery(document).on('ready', function() {
      BannerVideoSlider ();
      onePageFixedNav();
      mixitupGallery ();
-     bootstrapProgress ();
      clientSlider ();
      partnersLogo ();
      contactFormValidation ();
      closeSuccessAlert ();
-     cladendar ();
      subMenuExpend ()
   })(jQuery);
 });
