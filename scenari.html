@@ -1,43 +1,12 @@
 ---
-title: "Home page"
+title: "Scenari"
+coll_id: scenari
 layout: list
 permalink: /scenari/
+
 ---
 
 
-<!--
-=====================================================
-    Team Section
-=====================================================
--->
-<div id="team-section">
-    <div class="container">
-        <div class="theme-title">
-            <h2>Scenari</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                when an unknown printer took a galley of type.</p>
-        </div> <!-- /.theme-title -->
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
-        <div class="clear-fix team-member-wrapper">
-        {% for item in site.scenari %}
-
-            <div class="float-left">
-                <div class="single-team-member">
-                    <div class="img">
-                        <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
-                        <div class="opacity tran4s">
-                            <p>
-                                <a href="{{ item.permalink | relative_url }}">{{ item.preview }}...</a>
-                            </p>
-                        </div>
-                    </div> <!-- /.img -->
-                    <div class="member-name">
-                        <h6>{{ item.title }}</h6>
-                    </div> <!-- /.member-name -->
-                </div> <!-- /.single-team-member -->
-            </div> <!-- /float-left -->
-        {% endfor %}
-        </div> <!-- /.team-member-wrapper -->
-    </div> <!-- /.conatiner -->
-</div> <!-- /#team-section -->
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.

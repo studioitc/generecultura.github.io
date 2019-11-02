@@ -18,6 +18,36 @@ layout: default
         </div> <!-- /.opacity -->
     </section> <!-- /.inner-page-banner -->
     
-    {{ content }}
+    <div id="team-section">
+        <div class="container">
+            <div class="theme-title">
+                <h2>{{ page.title }}</h2>
+                <p>{{ content }}</p>
+            </div> <!-- /.theme-title -->
+    
+            <div class="clear-fix team-member-wrapper">
+            {% for item in site[page.coll_id] %}
+    
+                <div class="float-left">
+                    <div class="single-team-member">
+                        <div class="img">
+                            <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
+                            <div class="opacity tran4s">
+                                <p>
+                                    <a href="{{ item.permalink | relative_url }}">{{ item.preview }}...</a>
+                                </p>
+                            </div>
+                        </div> <!-- /.img -->
+                        <div class="member-name">
+                            <h6>
+                                <a href="{{ item.permalink | relative_url }}">{{ item.title }}</a>
+                            </h6>
+                        </div> <!-- /.member-name -->
+                    </div> <!-- /.single-team-member -->
+                </div> <!-- /float-left -->
+            {% endfor %}
+            </div> <!-- /.team-member-wrapper -->
+        </div> <!-- /.conatiner -->
+    </div> <!-- /#team-section -->
     
 </div>
