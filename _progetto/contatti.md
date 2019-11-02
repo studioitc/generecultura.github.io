@@ -1,5 +1,5 @@
 ---
-title: Iniziative
+title: Contatti
 permalink: progetto/contatti
 layout: article
 ---

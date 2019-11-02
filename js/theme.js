@@ -67,7 +67,6 @@ function BannerVideoSlider () {
                     enable: true,
                     hide_onmobile: false,
                     hide_onleave: false,
-                    tmp: '<div class="tp-arr-allwrapper"> <div class="tp-arr-imgholder"></div>  <div class="tp-arr-titleholder">{{title}}</div> </div>',
                     left: {
                         h_align: "left",
                         v_align: "center",
@@ -138,34 +137,6 @@ function onePageFixedNav() {
 }
 
 
-// Mixitup gallery
-function mixitupGallery () {
-  var mixItem = $(".project-gallery");
-  if (mixItem.length) {
-        mixItem .mixItUp()
-  };
-}
-
-// Client SLider
-function clientSlider () {
-  var cSldier = $(".client-slider");
-  if(cSldier.length) {
-      cSldier.owlCarousel({
-        animateOut: 'slideOutLeft',
-        loop:true,
-        nav:false,
-        navText:false,
-        dots:true,
-        autoplay:true,
-        autoplayTimeout:7000,
-        autoplaySpeed:5500,
-        lazyLoad:true,
-        items:1,
-    })
-  }
-}
-
-
 // Partner Logo Footer 
 function partnersLogo () {
   var logoSlide = $("#partner_logo");
@@ -198,65 +169,6 @@ function partnersLogo () {
   }
 }
 
-
-//Contact Form Validation
-function contactFormValidation () {
-  var activeForm = $('.form-validation');
-  if(activeForm.length){
-    activeForm.validate({ // initialize the plugin
-      rules: {
-        Fname: {
-          required: true
-        },
-        Lname: {
-          required: true
-        },
-        email: {
-          required: true,
-          email: true
-        },
-        sub: {
-          required: true
-        },
-        message: {
-          required: true
-        }
-      },
-      submitHandler: function(form) {
-                $(form).ajaxSubmit({
-                    success: function() {
-                        $('.form-validation :input').attr('disabled', 'disabled');
-                        activeForm.fadeTo( "slow", 1, function() {
-                            $(this).find(':input').attr('disabled', 'disabled');
-                            $(this).find('label').css('cursor','default');
-                            $('#alert-success').fadeIn();
-                        });
-                    },
-                    error: function() {
-                        activeForm.fadeTo( "slow", 1, function() {
-                            $('#alert-error').fadeIn();
-                        });
-                    }
-                });
-            }
-        });
-  }
-}
-
-// Close suddess Alret
-function closeSuccessAlert () {
-  var closeButton = $ (".closeAlert");
-  if(closeButton.length) {
-      closeButton.on('click', function(){
-        $(".alert-wrapper").fadeOut();
-      });
-      closeButton.on('click', function(){
-        $(".alert-wrapper").fadeOut();
-      })
-  }
-}
-
-
 // Sticky header
 function stickyHeader () {
   if ($('.theme-main-header').length) {
@@ -288,12 +200,9 @@ jQuery(document).on('ready', function() {
      scrollToTop ();
      BannerVideoSlider ();
      onePageFixedNav();
-     mixitupGallery ();
-     clientSlider ();
      partnersLogo ();
-     contactFormValidation ();
-     closeSuccessAlert ();
      subMenuExpend ()
+     $('a.fancybox').fancybox();
   })(jQuery);
 });
 

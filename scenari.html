@@ -27,8 +27,9 @@ permalink: /scenari/
                     <div class="img">
                         <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
                         <div class="opacity tran4s">
-                            <p>{{ item.preview }}...</p>
-                            <p><a href="{{ item.permalink | relative_url }}">Leggi tutto</a></p>
+                            <p>
+                                <a href="{{ item.permalink | relative_url }}">{{ item.preview }}...</a>
+                            </p>
                         </div>
                     </div> <!-- /.img -->
                     <div class="member-name">

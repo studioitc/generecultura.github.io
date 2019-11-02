@@ -3,7 +3,7 @@
   {% for image in site.static_files %}
     {% if image.path contains include.gallery and image.name == item.img %}
     <div class="col-xs-6 col-sm-4">
-      <a class="work-thumb"
+      <a class="fancybox"
         href="{{ image.path | relative_url }}"
         data-fancybox="gallery-{{ include.gallery }}"
         data-caption="{{ item.caption }}">
