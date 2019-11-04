@@ -6,14 +6,6 @@
 
  ***/
 
-@font-face {
-    font-family: 'font-awesome';
-    src: url('../fonts/font-awesome/fonts/fontawesome-webfont.ttf');
-    src: url('../fonts/font-awesome/fonts/fontawesome-webfont.eot'), /* IE9 Compat Modes */
-         url('../fonts/font-awesome/fonts/fontawesome-webfont.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/font-awesome/fonts/fontawesome-webfont.woff') format('woff'), /* Pretty Modern Browsers */
-         url('../fonts/font-awesome/fonts/fontawesome-webfont.svg') format('svg'); /* Legacy iOS */
-}
 body {
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
@@ -39,9 +31,7 @@ a {text-decoration: none; display: inline-block;}
 a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
 img {max-width: 100%; display: block;}
 
-button {border:none;outline: none;box-shadow: none;display: block; padding: 0;}
-input,textarea {outline: none; box-shadow: none;-webkit-transition: all 0.3s ease-in-out;-o-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;}
-  
+button {border:none;outline: none;box-shadow: none;display: block; padding: 0;}  
   
 .clear-fix {
     clear:both;

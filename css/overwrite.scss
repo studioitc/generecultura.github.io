@@ -1,10 +1,12 @@
 ---
 ---
 
+$red: #d73e4d;
+
 .gallery{
     margin-top: 5rem;
     padding-top: 5rem;
-    border-top: 1px solid #d73e4d;
+    border-top: 1px solid $red;
 
     .column{
         height: 400px;
@@ -12,9 +14,48 @@
     }
 
     .caption{
-        border-top: 1px dotted #d73e4d;
+        border-top: 1px dotted $red;
         font-size: 14px;
         padding-top: 1rem;
         margin-top: 1rem;
+    }
+}
+
+.blog-details-post-wrapper .post-heading {
+    border-bottom: none;
+    margin-top: 5rem;
+
+    img{
+        border-bottom: 1px solid #dfdfdf;
+        padding-bottom: 5rem;
+    }
+}
+
+.inner-page-banner .opacity .sub-title{
+    border-top: 1px solid #dfdfdf;
+    color: #dfdfdf;
+}
+
+.intro{
+    margin-bottom: 10rem;
+    padding: 10rem 30rem;
+    background: #232a34;
+    color: #dfdfdf;
+    text-align: center;
+    
+    
+    p {
+        font-size: 3rem;
+        font-weight: 100;
+        line-height: 5rem;
+    }
+
+    a.more{
+        color: #ffffff;
+        padding: 15px 20px;
+        background: $red;
+        margin-top: 20px;
+        text-transform: uppercase;
+        font-weight: 600;
     }
 }
