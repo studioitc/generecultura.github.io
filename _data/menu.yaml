@@ -43,4 +43,14 @@
 - title: "Fonti/Archivi"
   url: /fonti_archivi
 - title: "Didattica/Formazione"
-  url: /didattica_formazione
+  sub:
+  - title: Laboratori per studenti
+    url: /didattica_formazione/laboratorio-studenti
+  - title: Aggiornamento dei docenti
+    url: /didattica_formazione/aggiornamento-docenti
+  - title: Progetti degli studenti
+    url: /didattica_formazione/progetti-studenti
+  - title: Cicli di incontri territoriali
+    url: /didattica_formazione/incontri-territoriali
+  - title: Materiali formativi contrasto alla violenza nei luoghi di lavoro
+    url: /didattica_formazione/materiali-formativi
