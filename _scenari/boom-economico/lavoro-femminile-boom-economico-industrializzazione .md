@@ -2,7 +2,7 @@
 title: Lavoro femminile, boom economico industrializzazione 
 preview: Il lavoro femminile ha rivestito un ruolo centrale nell’azione e nella riflessione di organizzazioni sindacali, associazioni femminili e istituzioni locali nei primi due decenni della Repubblica, in particolare nel contesto emiliano-romagnolo.
 img: images/scenari/lavoro-femminile-boom-economico-industrializzazione.jpg
-permalink: scenari/lavoro-femminile-boom-economico-industrializzazione 
+permalink: /scenari/boom-economico/lavoro-femminile-boom-economico-industrializzazione 
 layout: article
 ---
 

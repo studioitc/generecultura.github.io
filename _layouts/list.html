@@ -27,7 +27,7 @@ layout: default
     
             <div class="clear-fix team-member-wrapper">
             {% for item in site[page.coll_id] %}
-    
+            {% if item.url contains page.permalink and item.id != page.id %}
                 <div class="float-left">
                     <div class="single-team-member">
                         <div class="img">
@@ -45,6 +45,8 @@ layout: default
                         </div> <!-- /.member-name -->
                     </div> <!-- /.single-team-member -->
                 </div> <!-- /float-left -->
+            {% endif %}
+
             {% endfor %}
             </div> <!-- /.team-member-wrapper -->
         </div> <!-- /.conatiner -->

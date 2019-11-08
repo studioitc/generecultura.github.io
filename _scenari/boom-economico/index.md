@@ -1,8 +1,8 @@
 ---
-title: "Scenari"
+title: "Scenari / Boom economico"
 coll_id: scenari
 layout: list
-permalink: /scenari/
+permalink: /scenari/boom-economico/
 
 ---
 

@@ -2,7 +2,7 @@
 title: Donne e formazione tecnico-professionale tra ricostruzione e anni Sessanta
 preview: Il tema dell’istruzione e della formazione professionale femminile ha rivestito un’importanza crescente nel corso del Novecento, al crocevia tra teorie educative, azioni filantropiche ed esperienze di mutua assistenza
 img: images/scenari/donne-formazione-tecnico-professionale.jpg
-permalink: scenari/donne-formazione-tecnico-professionale
+permalink: /scenari/boom-economico/donne-formazione-tecnico-professionale
 layout: article
 ---
 
