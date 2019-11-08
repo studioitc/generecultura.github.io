@@ -32,16 +32,22 @@
       url: "#"
 - title: Biografie
   sub:
-  - title: Imprenditrici
-    url: /biografie/imprenditrici
-  - title: Insegnati
-    url: "#"
-  - title: diplomate
-    url: "#"
+    - title: Imprenditrici
+      url: /biografie/imprenditrici
+    - title: Insegnati
+      url: "#"
+    - title: Diplomate
+      url: "#"
 - title: "Lavoro/Diritti"
-  url: /lavoro_diritti/
+  sub:
+    - title: "Cittadine e lavoratrici: la legislazione nazionale"
+      url: /lavoro_diritti/cittadine-e-lavoratrici
+    - title: "I diritti fondamentali e di parità nelle convenzioni dell’ILO"
+      url: /lavoro_diritti/diritti-parita-ilo/
 - title: "Fonti/Archivi"
-  url: /fonti_archivi
+  sub: 
+  - title: Archivi partecipanti
+    url: /fonti_archivi/archivi-partecipanti
 - title: "Didattica/Formazione"
   sub:
   - title: Laboratori per studenti

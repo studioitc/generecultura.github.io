@@ -1,13 +1,13 @@
 ---
 title: Archivi partecipanti
 layout: article
-permalink: /fonti_archivi
+permalink: /fonti_archivi/archivi-partecipanti
 
 ---
 
 ## Archivio storico UDI Bologna 
 
-![Archivio storico UDI Bologna](images/archivi/udi-bologna.jpg)
+![Archivio storico UDI Bologna](../images/archivi/udi-bologna.jpg)
 
 L’Archivio dell'Unione Donne in Italia (Udi) conserva presso la sua sede bolognese alcuni complessi archivistici di particolare importanza per ricostruire la storia dell’Associazione e dell’emancipazione femminile in generale, tra questi il Fondo Unione Donne in Italia (Udi) Bologna, il fondo fotografico ad esso afferente e il Fondo Unione Donne in Italia (Udi) Comitato regionale Emilia-Romagna. 
 
@@ -21,7 +21,7 @@ Il Fondo fotografico dell’UDI di Bologna, è costituito da oltre 3.000 fotogra
 
 ## Archivio Camera del Lavoro di Bologna – Associazione Paolo Pedrelli
 
-![Archivio Camera del Lavoro di Bologna – Associazione Paolo Pedrelli](images/archivi/paolo-pedrelli.jpg)
+![Archivio Camera del Lavoro di Bologna – Associazione Paolo Pedrelli](../images/archivi/paolo-pedrelli.jpg)
 
 La “Paolo Pedrelli” nacque a Bologna nel luglio del 1998, ad opera della Camera del lavoro metropolitana di Bologna e di tutte le categorie sindacali bolognesi. L’intento fu quello di conservare e ordinare il patrimonio archivistico e bibliotecario della Cgil di Bologna e della Cgil Emilia Romagna e di favorire unì ruolo attivo dell’Archivio nel dibattito culturale, dentro l’Organizzazione e nella città, sulle tematiche del lavoro e sulla memoria a queste collegata, che riguarda il contributo che il mondo del lavoro ha dato allo sviluppo sociale ed economico del nostro paese e in particolare della nostra regione.
 
@@ -35,7 +35,7 @@ L’attività di valorizzazione del patrimonio archivistico ha visto l’inventa
 
 ## Fondazione del Monte di Bologna e Ravenna
 
-![Fondazione del Monte di Bologna e Ravenna](images/archivi/fondazione-del-monte.jpg)
+![Fondazione del Monte di Bologna e Ravenna](../images/archivi/fondazione-del-monte.jpg)
 
 Il patrimonio archivistico della Fondazione del Monte di Bologna è assai cospicuo per consistenza, quasi un chilometro di documentazione proveniente da archivi prodotti e raccolti da soggetti produttori molteplici. Oltre ai fondi archivistici prodotti dai Monti di pietà di Bologna e Ravenna, si conservano archivi bancari (Banca del Monte di Bologna, Banca del Monte di Ravenna e Bagnacavallo, Banca del Monte di Bologna e Ravenna), l’archivio della Fondazione del Monte di Bologna e Ravenna, archivi familiari, di personalità e di impresa, collezioni e raccolte confluite per donazione e acquisizione presso la Fondazione negli ultimi vent'anni, costituendo un complesso di fonti di enorme valore per ricostruire la storia della città di Bologna tra Basso Medioevo ed Età Contemporanea. 
 
@@ -45,7 +45,7 @@ Tra i fondi conservati dall’Archivio Storico della Fondazione sono presenti ra
 
 ## Museo del Patrimonio Industriale di Bologna, Sezione Biblioteca e Archivio
 
-![Museo del Patrimonio Industriale di Bologna, Sezione Biblioteca e Archivio](images/archivi/museo-patrimonio.jpg)
+![Museo del Patrimonio Industriale di Bologna, Sezione Biblioteca e Archivio](../images/archivi/museo-patrimonio.jpg)
 
 
 L’Archivio fotografico del Museo è costituito da due grandi nuclei, l’uno dedicato all’Aldini Valeriani e alla sua attività formativa, l’altro all’industria di Bologna e del suo territorio.
@@ -62,6 +62,6 @@ Dalle attività di ricerca del Museo per allestimenti espositivi e pubblicazioni
 
 ### Archivio Storico Regione Emilia-Romagna
 
-![Archivio Storico Regione Emilia-Romagna](images/archivi/storico-regione-emilia-romagna.jpg)
+![Archivio Storico Regione Emilia-Romagna](../images/archivi/storico-regione-emilia-romagna.jpg)
 
 Da fare

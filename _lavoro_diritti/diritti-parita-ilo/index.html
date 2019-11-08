@@ -1,0 +1,43 @@
+---
+title: I diritti fondamentali e di parità nelle convenzioni dell’ILO
+layout: list
+permalink: /lavoro_diritti/diritti-parita-ilo/
+---
+
+Fondata nel 1919 con il Trattato che pose fine alla Prima guerra mondiale, l’Organizzazione Internazionale del Lavoro (ILO) è Agenzia Specializzata delle Nazioni Unite che si occupa della promozione del lavoro dignitoso e della giustizia sociale. I rappresentanti dei governi, datori di lavoro e lavoratori di 187 Paesi adottano norme internazionali del lavoro, politiche per il miglioramento delle condizioni di vita e di lavoro e programmi d’azione e di formazione. Fin dalla sua creazione nel 1919, la promozione dei diritti delle lavoratrici e dell’uguaglianza di genere nel mondo del lavoro è centrale nell’attività dell’Organizzazione Internazionale del Lavoro.
+
+{% include gallery.html gallery="100-anni-oil" %}
+
+<div class="row">
+    <div class="col-xs-6">
+        <h3>a. Le convenzioni fondamentali</h3>
+        
+        {% for item in site.lavoro_diritti %}
+            {% if item.url contains "convenzioni-fondamentali-ilo" %}
+                <p>
+                    <strong><a href="{{ item.permalink | relative_url }}">{{ item.title }}</a></strong>
+                    <br />
+                    {{ item.preview }}
+                </p>
+                <hr />
+            {% endif %}
+        {% endfor %}
+
+
+    </div>
+    <div class="col-xs-6">
+        <h3>b. La parità di diritti per le lavoratrici</h3>
+        <p>
+            1919 – Orario di lavoro nell’industri (Convenzione n.1)<br>
+            1919 – Protezione della maternità (Convenzione n.3)<br>
+            1921 – Riposo settimanale nell’industria (Convenzione n.14)<br>
+            1936 – Congedo retribuito (Convenzione n.122)<br>
+            1975 – Sviluppo delle risorse umane (Convenzione n.142)<br>
+            1981 – Lavoratori con responsabilità familiari (Convenzione n.156)<br>
+            1994 – Lavoro part-time (Convenzione n.175)<br>
+            1996 – Lavoro a domicilio (Convenzione n.177)<br>
+            2011 – Lavoratori domestici (Convenzione n.189)<br>
+            2019 – Eliminazione della violenza e delle molestie nel mondo del lavoro (Convenzione n. 190)
+        </p>
+    </div>
+</div>

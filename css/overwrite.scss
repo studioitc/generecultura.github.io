@@ -59,3 +59,18 @@ $red: #d73e4d;
         font-weight: 600;
     }
 }
+
+footer{
+    background-color: $red !important;
+
+    a{
+        color: rgba($color: #ffffff, $alpha: .7);
+        &:hover{
+            color: #ffffff
+        }
+    }
+}
+
+.scroll-top{
+    border: 1px solid lighten($color: $red, $amount: 10%);
+}
