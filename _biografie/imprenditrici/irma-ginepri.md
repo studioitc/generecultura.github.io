@@ -2,7 +2,7 @@
 title: Irma Ginepri
 preview: Gilberta Gabrielli nasce a Bologna il 6 febbraio 1897. Appena ventunenne sposa Giuseppe Minganti, che affianca e segue fin dagli inizi dell’attività
 img: images/biografie/irma-ginepri.jpg
-permalink: biografie/irma-ginepri
+permalink: biografie/imprenditrici/irma-ginepri
 layout: article
 ---
 

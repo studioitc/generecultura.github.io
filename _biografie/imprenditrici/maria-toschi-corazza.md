@@ -2,7 +2,7 @@
 title: Maria Toschi Corazza
 preview: Nasce a Ferrara nel 1921, lavora inizialmente come operaia nell'industria farmaceutica
 img: images/biografie/maria-toschi-corazza.jpg
-permalink: biografie/maria-toschi-corazza
+permalink: biografie/imprenditrici/maria-toschi-corazza
 layout: article
 ---
 

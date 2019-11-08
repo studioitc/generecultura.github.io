@@ -31,7 +31,13 @@
     - title: Lombardia
       url: "#"
 - title: Biografie
-  url: /biografie/
+  sub:
+  - title: Imprenditrici
+    url: /biografie/imprenditrici
+  - title: Insegnati
+    url: "#"
+  - title: diplomate
+    url: "#"
 - title: "Lavoro/Diritti"
   url: /lavoro_diritti/
 - title: "Fonti/Archivi"

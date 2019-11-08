@@ -2,7 +2,7 @@
 title: Gilberta Gabrielli Minganti
 preview: Gilberta Gabrielli nasce a Bologna il 6 febbraio 1897. Appena ventunenne sposa Giuseppe Minganti, che affianca e segue fin dagli inizi dell’attività
 img: images/biografie/gilberta-gabrielli-minganti.jpg
-permalink: biografie/gilberta-gabrielli-minganti
+permalink: biografie/imprenditrici/gilberta-gabrielli-minganti
 layout: article
 ---
 

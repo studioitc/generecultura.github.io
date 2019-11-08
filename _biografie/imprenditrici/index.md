@@ -1,8 +1,8 @@
 ---
-title: "Biografie"
+title: "Biografie: Imprenditrici"
 coll_id: biografie
 layout: list
-permalink: /biografie/
+permalink: /biografie/imprenditrici
 
 ---
 
