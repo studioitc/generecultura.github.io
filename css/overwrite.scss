@@ -74,3 +74,16 @@ footer{
 .scroll-top{
     border: 1px solid lighten($color: $red, $amount: 10%);
 }
+
+#team-section .team-member-wrapper .single-team-member .img .opacity{
+    background: rgba($color: $red, $alpha: .5);
+    a{
+        color: #ffffff;
+    }
+}
+#team-section .team-member-wrapper .single-team-member .member-name{
+    background: rgba($color: $red, $alpha: .5);
+    a{
+        color: #ffffff;
+    }
+}
