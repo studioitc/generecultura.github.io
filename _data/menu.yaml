@@ -1,7 +1,6 @@
 - title: Inizio
   url: /
 - title: Il progetto
-  url: /progetto/
   sub:
     - title: Il progetto
       url: /progetto/progetto
@@ -12,10 +11,9 @@
     - title: Contatti
       url: /progetto/contatti
 - title: Scenari
-  url: /scenari/
   sub:
     - title: Età liberale
-      url: "/scenari/"
+      url: "#"
     - title: Ventennio fascista
       url: "#"
     - title: Ricostruzione
@@ -25,7 +23,13 @@
     - title: Lunghi anni Settanta
       url: "#"
 - title: "Scuole/Territorio"
-  url: /scuole_territorio/
+  sub:
+    - title: Emilia-Romagna
+      url: /scuole_territorio/emilia-romagna
+    - title: Toscana
+      url: "#"
+    - title: Lombardia
+      url: "#"
 - title: Biografie
   url: /biografie/
 - title: "Lavoro/Diritti"

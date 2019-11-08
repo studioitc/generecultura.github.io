@@ -2,7 +2,7 @@
 title: "Scuole / Territorio"
 coll_id: scuole_territorio
 layout: list
-permalink: /scuole_territorio/
+permalink: /scuole_territorio/emilia-romagna
 
 ---
 

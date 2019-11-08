@@ -2,7 +2,7 @@
 title: Istituto Tecnico Aldini Valeriani 
 preview: "L'Istituto Aldini Valeriani è una delle più antiche scuole tecniche d'Italia"
 img: images/scuole_territorio/aldini-valeriani.jpg
-permalink: scuole_territorio/aldini-valeriani
+permalink: scuole_territorio/emilia-romagna/aldini-valeriani
 layout: article
 ---
 
