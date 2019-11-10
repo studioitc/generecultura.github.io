@@ -34,14 +34,19 @@
   
   .post-heading {
     padding-bottom: 25px;
-    border-bottom: 1px solid #dfdfdf;
+    border-bottom: none;
     margin-bottom: 25px;
+    margin-top: 5rem;
 
     h4{
       margin: 53px 0 13px 0;
       text-transform: none;
     }
+
+    img{
+      border-bottom: 1px solid #dfdfdf;
+      padding-bottom: 5rem;
+    }
   }
 
  } // .blog-details-post-wrapper
-
