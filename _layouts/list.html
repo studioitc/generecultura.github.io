@@ -25,7 +25,7 @@ layout: default
                 <p>{{ content }}</p>
             </div> <!-- /.theme-title -->
     
-            <div class="clear-fix team-member-wrapper">
+            <div class="clearfix team-member-wrapper">
             {% for item in site[page.coll_id] %}
             {% if item.url contains page.permalink and item.id != page.id %}
                 <div class="float-left">

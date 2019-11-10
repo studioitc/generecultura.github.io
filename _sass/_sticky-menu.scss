@@ -10,18 +10,18 @@
     50%  {margin-top: -64px;opacity: 0;}
     100% {margin-top: 0;opacity: 1;}
   }
-  .theme-main-header.fixed {
-    position: fixed;
-    width:100%;
-    top:0;
-    left:0;
-    z-index: 9999;
-    background: rgba(0,0,0,0.5);
-    margin:0;
-    animation-name: menu_sticky;
-    animation-duration: 0.70s;
-    animation-timing-function: ease-in-out;
-  }
-  .theme-main-header.fixed .logo {
-    margin-top: -8px;
-  }
+.theme-main-header.fixed {
+  position: fixed;
+  width:100%;
+  top:0;
+  left:0;
+  z-index: 9999;
+  background: rgba(0,0,0,0.5);
+  margin:0;
+  animation-name: menu_sticky;
+  animation-duration: 0.70s;
+  animation-timing-function: ease-in-out;
+}
+.theme-main-header.fixed .logo {
+  margin-top: -8px;
+}

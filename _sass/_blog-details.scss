@@ -5,151 +5,43 @@
 ====================================================================
 
  ***/
- .blog-details-post-wrapper .post-heading h4{
-    margin: 53px 0 13px 0;
-    text-transform: none;
-  }
-  .blog-details-post-wrapper .post-heading {
-    padding-bottom: 25px;
-    border-bottom: 1px solid #dfdfdf;
-    margin-bottom: 25px;
-  }
-  .blog-details-post-wrapper>h6 {
+ .blog-details-post-wrapper {
+
+  &>h6 {
     margin: 23px 0 28px 0;
     text-transform: none;
   }
-  .blog-details-post-wrapper>.row {
+
+  &>.row {
     margin-top: 35px;
     margin-bottom: 25px;
+
+    p {
+      font-style: italic;
+      color:#292929;
+      padding-left: 18px;
+
+      i {
+        color:#9d9f9f;
+        margin: 0 4px;
+
+        &.fa-quote-left {
+          margin-left: -16px;
+        }
+      }
+    }
   }
-  .blog-details-post-wrapper>.row p {
-    font-style: italic;
-    color:#292929;
-    padding-left: 18px;
-  }
-  .blog-details-post-wrapper>.row p i {
-    color:#9d9f9f;
-    margin: 0 4px;
-  }
-  .blog-details-post-wrapper>.row p i.fa-quote-left {
-    margin-left: -16px;
-  }
-  .blog-details-post-wrapper .list-img-wrapper {
-    margin: 34px 0 40px 0;
-  }
-  .blog-details-post-wrapper .list-img-wrapper img {
-    width: 48%;
-  }
-  .blog-details-post-wrapper .list-img-wrapper ul {
-    padding-left: 30px;
-  }
-  .blog-details-post-wrapper .list-img-wrapper ul li a {
-    color:#292929;
-    margin-bottom: 12px;
-  }
-  .blog-details-post-wrapper .list-img-wrapper ul li a i {
-    margin-right: 8px;
-  }
-  .blog-details-post-wrapper .post-share-area .share li {
-    display: inline-block;
-    margin-top: 5px;
-  }
-  .blog-details-post-wrapper .post-share-area .share li a {
-    color:#6f6f6f;
-  }
-  .blog-details-post-wrapper .post-share-area {
-    padding-bottom: 30px;
+  
+  .post-heading {
+    padding-bottom: 25px;
     border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 25px;
+
+    h4{
+      margin: 53px 0 13px 0;
+      text-transform: none;
+    }
   }
-  .blog-details-post-wrapper .post-share-area .share-icon li {
-    display: inline-block;
-    text-align: center;
-  }
-  .blog-details-post-wrapper .post-share-area .share-icon li a {
-    width: 32px;
-    line-height: 30px;
-    margin: 0 5px;
-    border:1px solid transparent;
-  }
-  .blog-details-post-wrapper .post-share-area .share-icon li:first-child {
-    margin-right: 15px;
-  }
-  .blog-details-post-wrapper .post-share-area .share-icon li a:hover {
-    color:#fff;
-  }
-  .blog-details-post-wrapper .comment-area h4 {
-    margin: 55px 0 42px 0;
-    padding-bottom: 32px;
-    border-bottom: 1px solid #dfdfdf;
-  }
-  .blog-details-post-wrapper .comment-area .single-comment {
-    padding-bottom: 30px;
-    border-bottom: 1px solid #dfdfdf;
-    margin-bottom: 30px;
-  }
-  .blog-details-post-wrapper .comment-area .single-comment.reply-comment {
-    margin-left: 100px;
-  }
-  .blog-details-post-wrapper .comment-area .single-comment img {
-    width: 55px;
-    height: 55px;
-    border-radius: 50%;
-  }
-  .blog-details-post-wrapper .comment-area .single-comment .comment {
-    width: 90%;
-    width: calc(100% - 60px);
-    padding-left: 30px;
-  }
-  .blog-details-post-wrapper .comment-area .single-comment .comment h6 {
-    font-size: 14px;
-    text-transform: none;
-    margin-bottom: 5px;
-  }
-  .blog-details-post-wrapper .comment-area .single-comment .comment p {
-    margin: 17px 0 22px 0;
-  }
-  .blog-details-post-wrapper .comment-area .single-comment .comment button {
-    width: 70px;
-    line-height: 30px;
-    color:#292929;
-    background:#dfdfdf;
-    text-transform: uppercase;
-    font-size: 13px;
-  }
-  .blog-details-post-wrapper .comment-area .single-comment .comment button:hover {
-    color: #fff;
-  }
-  .blog-details-post-wrapper .post-comment h4 {
-    margin: 70px 0 40px 0;
-  }
-  .blog-details-post-wrapper .post-comment span {
-    text-transform: uppercase;
-    display: block;
-  }
-  .blog-details-post-wrapper .post-comment input {
-    width: 100%;
-    height: 40px;
-    border: 1px solid #dfdfdf;
-    padding: 0 15px;
-  }
-  .blog-details-post-wrapper .post-comment textarea {
-    width: 100%;
-    max-width: 100%;
-    height: 170px;
-    border: 1px solid #dfdfdf;
-    padding: 20px 15px;
-  }
-  .blog-details-post-wrapper .post-comment .single-input {
-    margin: 10px 0 25px 0;
-  }
-  .blog-details-post-wrapper .post-comment form button {
-    width: 150px;
-    line-height: 40px;
-    text-transform: uppercase;
-    color:#fff;
-    border-width: 1px;
-    border-radius: 15px;
-  }
-  .blog-details-post-wrapper .post-comment form button:hover {
-    background:#fff;
-  }
+
+ } // .blog-details-post-wrapper
+

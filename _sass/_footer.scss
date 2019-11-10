@@ -6,19 +6,26 @@
 
  ***/
  
-footer {
-    margin: 100px 0 0 0;
-    background: #1e1e1e;
+ footer {
+    margin-top: 3rem;
+    background-color: $red !important;
     padding: 60px 0 25px 0;
     text-align: center;
 
     .logo {
-        margin-bottom: 20px;
+        margin-bottom: 1.5rem;
     }
 
     p {
         color:#fff;
-        font-size: 15px;
-        margin-top: 50px;
+        font-size: 1rem;
+        margin-top: 1rem;
+
+        a{
+            color: rgba($color: #ffffff, $alpha: .7);
+            &:hover{
+                color: #ffffff
+            }
+        }
     }
 }

@@ -2,13 +2,13 @@
 {% for item in site.data.galleries[include.gallery] %}
   {% for image in site.static_files %}
     {% if image.path contains include.gallery and image.name == item.img %}
-    <div class="col-xs-4 column">
+    <div class="col-4 column">
       <a class="fancybox"
         href="{{ image.path | relative_url }}"
         data-fancybox="gallery-{{ include.gallery }}"
         data-caption="{{ item.caption }}">
     
-        <img src="{{ image.path | relative_url }}" alt="Image" class="img-fluid">
+        <img src="{{ image.path | relative_url }}" alt="Image" class="img-fluid shadow m-1">
         <div class="caption">
             {{ item.caption }}
         </div>

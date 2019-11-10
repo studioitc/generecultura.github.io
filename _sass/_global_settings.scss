@@ -10,66 +10,52 @@ body {
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
     color:#6f6f6f;
-    font-size: 18px;
     position: relative;
+    font-size: 1.2rem;
 }
 
 .main-page-wrapper {
     overflow-x:hidden;
 }
-// h1,h2,h3,h4,h5,h6,p { margin:0;padding: 0;}
-h1,h2,h3,h4,h5,h6 {color:#292929; text-transform: uppercase;font-weight: 700;}
-h1 {font-size: 48px;}
-h2 {font-size: 36px;}
-h3 {font-size: 28px;}
-h4 {font-size: 24px;}
-h5 {font-size: 22px;}
-h6 {font-size: 18px;}
-p {line-height: 26px;}
-// ul {list-style-type: none;}
-a {text-decoration: none; display: inline-block;}
-a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
-img {max-width: 100%; display: block;}
 
-button {border:none;outline: none;box-shadow: none;display: block; padding: 0;}  
-  
-.clear-fix {
-    clear:both;
-    &::after {
-        display: table;
-        content: '';
-        clear: both;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color:#292929; 
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none; 
+    display: inline-block;
+    
+    &:hover,
+    &:focus,
+    &:visited {
+        text-decoration: none;
+        outline: none;
     }
 }
-.tran3s,.theme-main-menu .navbar-nav>li a,#project-section .project-gallery .single-img .opacity,
-#team-section .team-member-wrapper .single-team-member .member-name h6,
-#team-section .team-member-wrapper .single-team-member .member-name p,
-#team-section .team-member-wrapper .single-team-member .member-name ul,
-#our-client .owl-theme .owl-dots .owl-dot span {
-    -webkit-transition: all .3s ease-in-out;
-       -moz-transition: all .3s ease-in-out;
-        -ms-transition: all .3s ease-in-out;
-         -o-transition: all .3s ease-in-out;
-            transition: all .3s ease-in-out;
+
+img {
+    max-width: 100%; 
+    display: block;
 }
-.tran4s,#service-section .single-service-content p,#project-section .project-gallery .single-img .opacity ul,
-#project-section .project-gallery .single-img .opacity h6 a {
+
+.tran4s,
+#team-section .team-member-wrapper .single-team-member .member-name h6,
+#team-section .team-member-wrapper .single-team-member .member-name p
+{
     -webkit-transition: all .4s ease-in-out;
        -moz-transition: all .4s ease-in-out;
         -ms-transition: all .4s ease-in-out;
          -o-transition: all .4s ease-in-out;
             transition: all .4s ease-in-out;
 }
-.float-left {float:left;}
-.float-right {float:right;}
-.round-border {
-    border-radius: 50%;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -o-border-radius: 50%;
-    -ms-border-radius: 50%;
-}
-
 .theme-title {
     text-align: center;
     margin: 95px 0 0 0;
@@ -96,62 +82,13 @@ button {border:none;outline: none;box-shadow: none;display: block; padding: 0;}
 }
 
 .p-color,
-.theme-main-menu .navbar-nav>li.active>a,
-.theme-main-menu .navbar-nav>li>a:hover,
-#about-us .single-about-content:hover h5 a,
-#service-section .single-service-content:hover .icon-heading .icon,
-#service-section .single-service-content:hover .icon-heading h6 a,
-#pricing-section .single-price-table a:hover,
 #blog-section .single-news-item .img a,
 #blog-section .single-news-item:hover .post p a,
-#blog-section .single-news-item .post h6:hover a,
-#contact-section .contact-address-content .left-side ul li:hover .icon,
-#contact-section .send-message form button:hover,
-.inner-page-banner .opacity ul li:last-child,
-.blog-details-page aside .sidebar-news-list ul li a i,
-.monthly-header-title,
-.blog-details-page aside .sidebar-news-list ul li a:hover,
-.blog-details-page aside .sidebar-archives ul li a i,
-.blog-details-page aside .sidebar-archives ul li a:hover,
-.blog-details-page aside .sidebar-archives ul li a.active,
-.blog-details-page aside .sidebar-news-list ul li a.active,
-.recent-single-post .post a:hover,
-.sidebar-tags ul li a:hover,
-.blog-details-post-wrapper .list-img-wrapper ul li a i,
-.blog-details-post-wrapper .list-img-wrapper ul li a:hover,
-.blog-details-post-wrapper .post-comment form button:hover,
-.blog-details-post-wrapper .post-share-area .share li a:hover,
-.theme-main-menu.navbar .nav>li ul li a:hover,
-.blog-details-post-wrapper .post-share-area .share li a.active {
+#blog-section .single-news-item .post h6:hover a {
     color:$red;
 }
 
 .p-color-bg,
-.theme-title h2:before,
-#about-us .single-about-content:hover .icon,
-#skill-section .codeconSkillbar .skillBar,
-#our-client .owl-theme .owl-dots .owl-dot.active span,
-#our-client .owl-theme .owl-dots .owl-dot:hover span,
-.blog-details-post-wrapper .comment-area .single-comment .comment button:hover {
+.theme-title h2:before {
     background: $red;
-}
-
-.banner .project-button,
-#about-us .icon,#about-us .single-about-content a.more,
-#service-section .single-service-content:hover,
-#project-section .project-menu ul li.active,
-#project-section .project-menu ul li:hover,
-.page-middle-banner .opacity a,
-#team-section .team-member-wrapper .single-team-member .img .opacity h4,
-#pricing-section .single-price-table a,
-#our-client .owl-theme .owl-dots .owl-dot.active span,
-#our-client .owl-theme .owl-dots .owl-dot:hover span,
-#contact-section .contact-address-content .left-side ul li .icon,
-#contact-section .send-message form button,
-.sidebar-tags ul li a:hover,
-.blog-details-post-wrapper .post-comment form button,
-.blog-details-post-wrapper .post-comment textarea:focus,
-.blog-details-post-wrapper .post-comment input:focus {
-    border-color: $red;
-    border-style: solid;
 }

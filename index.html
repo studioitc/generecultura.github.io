@@ -23,7 +23,7 @@ permalink: /
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
         </div> <!-- /.theme-title -->
 
-        <div class="clear-fix">
+        <div class="clearfix">
             {% for art in site.news %}
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                 <div class="single-news-item">
@@ -36,17 +36,17 @@ permalink: /
 
                     <div class="post">
                         <h6>
-                            <a href="{{ art.permalink }}" class="tran3s">
+                            <a href="{{ art.permalink }}" class="tran4s">
                                 {{ art.title }}
                             </a>
                         </h6>
                         <p>{{ art.preview }}... 
-                            <a href="{{ art.permalink }}" class="tran3s">Read More</a>
+                            <a href="{{ art.permalink }}" class="tran4s">Read More</a>
                         </p>
                     </div> <!-- /.post -->
                 </div> <!-- /.single-news-item -->
             </div> <!-- /.col- -->
             {% endfor %}
-        </div> <!-- /.clear-fix -->
+        </div> <!-- /.clearfix -->
     </div> <!-- /.container -->
 </div> <!-- /#blog-section -->
