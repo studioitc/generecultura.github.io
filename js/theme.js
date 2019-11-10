@@ -52,60 +52,6 @@ function scrollToTop () {
 }
 
 
-// Theme-banner Video slider 
-function BannerVideoSlider () {
-  var banner = $("#main-banner-slider.video-slider");
-  if (banner.length) {
-    banner.revolution({
-      sliderType:"standard",
-      sliderLayout:"auto",
-      loops:false,
-      delay:10000,
-      navigation: {
-          arrows: {
-                    style: "hermes",
-                    enable: true,
-                    hide_onmobile: false,
-                    hide_onleave: false,
-                    left: {
-                        h_align: "left",
-                        v_align: "center",
-                        h_offset: 0,
-                        v_offset: 0
-                    },
-                    right: {
-                        h_align: "right",
-                        v_align: "center",
-                        h_offset: 0,
-                        v_offset: 0
-                    }
-                },
-         bullets: {
-                  enable: false,
-              }
-
-      },
-      responsiveLevels:[2220,1183,975,751],
-                gridwidth:[1170,970,770,350],
-                gridheight:[850,850,850,700],
-                shadow:0,
-                spinner:"off",
-                autoHeight:"off",
-                disableProgressBar:"on",
-                hideThumbsOnMobile:"off",
-                hideSliderAtLimit:0,
-                hideCaptionAtLimit:0,
-                hideAllCaptionAtLilmit:0,
-                debugMode:false,
-                fallbacks: {
-                  simplifyAll:"off",
-                  disableFocusListener:false,
-                }   
-    }); 
-  };
-}
-
-
 //Add OnepageNav / Sidebar
 function onePageFixedNav() {
     if($('body').length){
@@ -198,7 +144,6 @@ jQuery(document).on('ready', function() {
 	(function ($) {
 	   removePlaceholder ();
      scrollToTop ();
-     BannerVideoSlider ();
      onePageFixedNav();
      partnersLogo ();
      subMenuExpend ()
