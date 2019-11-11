@@ -39,6 +39,12 @@ a {
         text-decoration: none;
         outline: none;
     }
+
+    color: $red;
+
+    &:hover {
+        color: darken($red, 20%);
+    }
 }
 
 img {
@@ -81,10 +87,7 @@ img {
     }
 }
 
-.p-color,
-#blog-section .single-news-item .img a,
-#blog-section .single-news-item:hover .post p a,
-#blog-section .single-news-item .post h6:hover a {
+.p-color {
     color:$red;
 }
 
