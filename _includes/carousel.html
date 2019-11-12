@@ -1,0 +1,26 @@
+ <div id="carousel-{{ include.gallery }}" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+{% assign first = 'true' %}{% 
+  for item in site.data.galleries[include.gallery] %}{% 
+    for image in site.static_files %} {% 
+      if image.path contains include.gallery and image.name == item.img %}
+        <div class="carousel-item {% if first %}active{% endif %}">
+            <img src="{{ image.path | relative_url }}" class="d-block w-100" alt="{{ item.caption }}">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>{{ item.caption }}</h5>
+            </div>
+          </div>
+          {% assign first = false %}
+        {% endif %}{% 
+      endfor %}{% 
+    endfor %}
+  </div>
+  <a class="carousel-control-prev" href="#carousel-{{ include.gallery }}" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Precedente</span>
+  </a>
+  <a class="carousel-control-next" href="#carousel-{{ include.gallery }}" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Successivo</span>
+  </a>
+</div>

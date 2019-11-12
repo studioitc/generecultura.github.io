@@ -22,6 +22,6 @@ La sua scomparsa risale al 10 aprile 1972.
 
 ### Bibliografia
 
-E. Ruffini, *C.M molti modelli poche moto*, in Legend bike, 94, 2000
-E. Ruffini, *Moto C.M, una vita avventurosa*, in ScuolaOfficina, 2/2004
-A. Campigotto, E. Ruffini, *Moto bolognesi C.M: trent’anni memorabili 1929-1959*, Vimodrone, 2017
+- E. Ruffini, *C.M molti modelli poche moto*, in Legend bike, 94, 2000
+- E. Ruffini, *Moto C.M, una vita avventurosa*, in ScuolaOfficina, 2/2004
+- A. Campigotto, E. Ruffini, *Moto bolognesi C.M: trent’anni memorabili 1929-1959*, Vimodrone, 2017

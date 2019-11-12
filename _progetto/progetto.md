@@ -1,6 +1,7 @@
 ---
 title: Il progetto
 permalink: progetto/progetto
+img: images/progetto/progetto.jpg
 layout: article
 ---
 Il progetto è promosso da Unione Donne in Italia – UDI di Bologna e Museo del Patrimonio industriale di Bologna, con il sostegno della Regione Emilia-Romagna (Assessorato al Bilancio, Riordino istituzionale, Risorse umane e Parti opportunità) e della Fondazione del Monte di Bologna e Ravenna. Ha inoltre ricevuto il patrocinio dell’Ufficio per l’Italia e San Marino dell’Organizzazione internazionale del lavoro. 

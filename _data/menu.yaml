@@ -20,7 +20,7 @@
       url: "#"
     - title: Boom economico
       url: /scenari/boom-economico
-    - title: Lunghi anni Settanta
+    - title: Anni Settanta
       url: "#"
 - title: "Scuole/Territorio"
   sub:
@@ -40,9 +40,9 @@
       url: "#"
 - title: "Lavoro/Diritti"
   sub:
-    - title: "Cittadine e lavoratrici: la legislazione nazionale"
+    - title: Cittadine e lavoratrici
       url: /lavoro_diritti/cittadine-e-lavoratrici
-    - title: "I diritti fondamentali e di parità nelle convenzioni dell’ILO"
+    - title: Diritti fondamentali e di parità
       url: /lavoro_diritti/diritti-parita-ilo/
 - title: "Fonti/Archivi"
   sub: 
