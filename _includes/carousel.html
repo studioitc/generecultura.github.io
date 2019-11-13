@@ -7,7 +7,7 @@
         <div class="carousel-item {% if first %}active{% endif %}">
             <img src="{{ image.path | relative_url }}" class="d-block w-100" alt="{{ item.caption }}">
             <div class="carousel-caption d-none d-md-block">
-              <h5>{{ item.caption }}</h5>
+              <div class="bg-light text-secondary"><small>{{ item.caption }}</small></div>
             </div>
           </div>
           {% assign first = false %}
