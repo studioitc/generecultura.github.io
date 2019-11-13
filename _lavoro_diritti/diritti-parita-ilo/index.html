@@ -10,36 +10,86 @@ permalink: /lavoro_diritti/diritti-parita-ilo/
     {% include carousel.html gallery="100-anni-oil" %}
 </div>
 
-<div class="row mt-5">
-    <div class="col-6">
-        <h3>a. Le convenzioni fondamentali</h3>
-        
-        {% for item in site.lavoro_diritti %}
-            {% if item.url contains "convenzioni-fondamentali-ilo" %}
-                <p>
-                    <strong><a href="{{ item.permalink | relative_url }}">{{ item.title }}</a></strong>
-                    <br />
-                    {{ item.preview }}
-                </p>
-                <hr />
-            {% endif %}
-        {% endfor %}
+<div class="row mt-5 pt-5 border-top">
 
+    <div class="col">
+        <div class="card shadow">
+            <img src="{{ "/images/lavoro_diritti/convenzioni-fondamentali.jpg" | relative_url }}" 
+                    alt="Le convenzioni fondamentali" 
+                    class="card-img-top">
 
+            <div class="card-body">
+                <h6 class="card-title">
+                    <a href="{{ "/lavoro_diritti/diritti-parita-ilo/convenzioni-fondamentali" | relative_url  }}" class="tran4s">
+                        Le convenzioni fondamentali
+                    </a>
+                </h6>
+            </div>
+        </div>
     </div>
-    <div class="col-6">
-        <h3>b. La parità di diritti per le lavoratrici</h3>
-        <p>
-            1919 – Orario di lavoro nell’industri (Convenzione n.1)<br>
-            1919 – Protezione della maternità (Convenzione n.3)<br>
-            1921 – Riposo settimanale nell’industria (Convenzione n.14)<br>
-            1936 – Congedo retribuito (Convenzione n.122)<br>
-            1975 – Sviluppo delle risorse umane (Convenzione n.142)<br>
-            1981 – Lavoratori con responsabilità familiari (Convenzione n.156)<br>
-            1994 – Lavoro part-time (Convenzione n.175)<br>
-            1996 – Lavoro a domicilio (Convenzione n.177)<br>
-            2011 – Lavoratori domestici (Convenzione n.189)<br>
-            2019 – Eliminazione della violenza e delle molestie nel mondo del lavoro (Convenzione n. 190)
-        </p>
+
+    <div class="col">
+        <div class="card shadow">
+            <img src="{{ "/images/lavoro_diritti/parita-diritti-lavoratrici.jpg" | relative_url }}" 
+                    alt="La parità di diritti per le lavoratrici" 
+                    class="card-img-top">
+
+            <div class="card-body">
+                <h6 class="card-title">
+                        <a href="{{ "/lavoro_diritti/diritti-parita-ilo/parita-diritti-lavoratrici" | relative_url  }}" class="tran4s">
+                        La parità di diritti per le lavoratrici
+                    </a>
+                </h6>
+            </div>
+        </div>
     </div>
+    
+    <div class="col">
+        <div class="card shadow">
+            <img src="{{ "/images/lavoro_diritti/lavoro-dignitoso.jpg" | relative_url }}" 
+                    alt="Lavoro dignitoso e Agenda 2030 per lo sviluppo sostenibile" 
+                    class="card-img-top">
+
+            <div class="card-body">
+                <h6 class="card-title">
+                    <a href="{{ "/lavoro_diritti/diritti-parita-ilo/lavoro-dignitoso" | relative_url  }}" class="tran4s">
+                        Lavoro dignitoso e Agenda 2030 per lo sviluppo sostenibile 
+                    </a>
+                </h6>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="card shadow">
+            <img src="{{ "/images/lavoro_diritti/futuro-del-lavoro.jpg" | relative_url }}" 
+                    alt="Futuro del lavoro" 
+                    class="card-img-top">
+
+            <div class="card-body">
+                <h6 class="card-title">
+                    <a href="{{ "/lavoro_diritti/diritti-parita-ilo/futuro-del-lavoro" | relative_url  }}" class="tran4s">
+                        Futuro del lavoro
+                    </a>
+                </h6>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col">
+        <div class="card shadow">
+            <img src="{{ "/images/lavoro_diritti/cos-e-ilo.jpg" | relative_url }}" 
+                    alt="Che cos’è l’OIL" 
+                    class="card-img-top">
+
+            <div class="card-body">
+                <h6 class="card-title">
+                    <a href="{{ "/lavoro_diritti/diritti-parita-ilo/cos-e-ilo" | relative_url  }}" class="tran4s">
+                        Che cos’è l’OIL
+                    </a>
+                </h6>
+            </div>
+        </div>
+    </div>
+
 </div>
