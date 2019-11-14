@@ -4,5 +4,3 @@ coll_id: didattica_formazione
 layout: list
 permalink: /didattica_formazione/aggiornamento-docenti/
 ---
-
-Lorem ipsum

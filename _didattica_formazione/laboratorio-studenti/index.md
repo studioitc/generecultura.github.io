@@ -4,5 +4,3 @@ coll_id: didattica_formazione
 layout: list
 permalink: /didattica_formazione/laboratorio-studenti/
 ---
-
-Lorem ipsum
