@@ -202,6 +202,11 @@ jQuery(document).on('ready', function() {
      partnersLogo ();
      subMenuExpend ()
      $('a.fancybox').fancybox();
+     $('.navbar-nav .dropdown-menu a').each( function(i, e){
+      if ($(e).attr('href')==='#'){
+         $(e).addClass('disabled');
+       }
+     });
   })(jQuery);
 });
 
