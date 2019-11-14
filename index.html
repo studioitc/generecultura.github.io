@@ -8,9 +8,13 @@ permalink: /
 {% include slider.html %}
 
 
-<div class="intro">
-    <p>Modelli e percorsi storici per una formazione anti-discriminatoria e una cultura di empowerment femminile nel lavoro.</p>
-    <a class="more" href="{{ "/progetto/progetto" | relative_url }}">Di più</a>
+<div class="intro text-center p-5">
+    <div class="row">
+        <div class="col-12 col-sm-8 offset-sm-2">
+            <p>Modelli e percorsi storici per una formazione anti-discriminatoria e una cultura di empowerment femminile nel lavoro.</p>
+            <a class="more" href="{{ "/progetto/progetto" | relative_url }}">Di più</a>
+        </div>
+    </div>
 </div>
 
 <div id="blog-section">
@@ -21,8 +25,8 @@ permalink: /
 
         <div class="row mt-5">
             {% for art in site.news %}
-            <div class="col-2 col-sm-4">
-                <div class="card shadow">
+            <div class="col-6 col-sm-4">
+                <div class="card shadow m-1">
                     <img src="{{ art.img | relative_url }}" alt="Image" class="card-img-top">
 
                     <div class="card-body">
