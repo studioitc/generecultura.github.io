@@ -47,6 +47,7 @@ layout: article
 - Alessio Zoeddu (Museo del Patrimonio Industriale, Bologna)
 - Marta Magrinelli (Archivio storico UDI Bologna)
 - Francesca Cozza (Archivio storico UDI Bologna)
+- Rossella Roncati (Archivio storico UDI Bologna)
 
 ---
 
@@ -66,13 +67,13 @@ layout: article
 - Gianni Rosas (Organizzazione Internazionale del Lavoro, Ufficio per l’Italia e San Marino)
 - Giorgio Tassinari (Università di Bologna)
 - Bruno Ziglioli (Università di Pavia)
+- Edmondo Montali (Fondazione Giuseppe di Vittorio, Roma)
 
 ---
 
 **Archivi e istituzioni culturali**
 - Archivio storico UDI Bologna
 - Archivio Camera del Lavoro di Bologna – Associazione Paolo Pedrelli
-- Fondazione del Monte di Bologna e Ravenna
 - Museo del Patrimonio Industriale di Bologna, Sezione Biblioteca e Archivio
 - Archivio Storico Regione Emilia-Romagna
 - Clionet - Associazione di ricerca storica e promozione culturale 

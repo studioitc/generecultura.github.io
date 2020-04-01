@@ -13,3 +13,9 @@ L’organizzazione didattica dell’ITIF prevede un biennio comune per tutte le 
 L’Istituto Femminile utilizza gli spazi offerti dal Sirani, con il quale condivide, oltre la presidenza della professoressa Bruna Biondi, anche le aule, prima in Via Saragozza e poi in Via Ca’ Selvatica; dal punto di vista della metodologia didattica il riferimento è l’Aldini-Valeriani, dal quale provengono anche gli insegnanti tecnico-pratici.
 
 L’anno 1968-’69 vede le ultime iscrizioni all’ITIF dal momento che, a partire dal successivo anno scolastico, all’istituto Aldini-Valeriani vengono costituite le prime sezioni miste.
+
+---
+
+### Bibliografia
+- B. Fragnelli, *L’Istituto tecnico Industriale Femminile di Bologna*, in ScuolaOfficina, 1/2020.
+- L.Santoli, *Una donna diplomata Perito a Bologna negli anni Sessanta*, in ScuolaOfficina, 1/2020.

@@ -20,6 +20,8 @@ Nel 2014 Maria Corazza, con la figlia Valeria, dà avvio alla Fondazione Natalin
 
 Muore a Bologna l'8 giugno 2015.
 
+{% include youtube.html ratio="4by3" video="Zsx_zHXopFs" %}
+
 ---
 
 ### Bibliografia

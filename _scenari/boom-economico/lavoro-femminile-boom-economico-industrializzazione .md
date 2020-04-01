@@ -16,3 +16,9 @@ Nelle fabbriche bolognesi, il lavoro femminile appariva una realtà non solo di 
 In quest’ultimo comparto si concentravano poco meno di un quinto delle lavoratrici industriali bolognesi (1961), con una crescita significativa, rispetto al decennio precedente, legata all’impetuosa espansione della metalmeccanica.
 
 La maggioranza delle lavoratrici della manifattura bolognese negli anni Cinquanta e Sessanta era impiegata in qualifiche operaie e in misura minore impiegatizie. Pochissime le donne che ricoprivano ruoli dirigenziali e le imprenditrici, per quanto non del tutto assenti, come evidenziano alcuni profili biografici
+
+---
+
+### Bibliografia
+- G.Tassinari, *Il lavoro femminile in Emilia-Romagna*, in ScuolaOfficina, 1/2020.
+- E.Betti, *Le ombre del fordismo. Sviluppo industriale, occupazione femminile e precarietà del lavoro nel trentennio glorioso (Italia, Emilia-Romagna, Bologna)*, Bononia University Press, Bologna, 2020.

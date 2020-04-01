@@ -60,8 +60,16 @@ Dalle attività di ricerca del Museo per allestimenti espositivi e pubblicazioni
 
 ---
 
-### Archivio Storico Regione Emilia-Romagna
+### Archivio storico della Regione Emilia-Romagna
 
 ![Archivio Storico Regione Emilia-Romagna](../images/archivi/storico-regione-emilia-romagna.jpg)
 
-Da fare
+L’Archivio storico della Regione Emilia-Romagna conserva, oltre alla documentazione amministrativa della Regione e delle strutture afferenti alla Giunta regionale dalla sua nascita istituzionale (1970), anche fondi di amministrazioni statali o enti pubblici le cui funzioni sono nel tempo state trasferite o delegate alle Regioni, a partire dai D.P.R. 14 e 15 gennaio 1972 nn. 1-11 fino al DPR n. 616 del 24 luglio 1977.
+
+Per tali motivi l’Archivio storico regionale custodisce fondi archivistici di ragguardevole interesse storico, risalenti ad anni ben anteriori alla nascita della Regione stessa. I fondi conservati sono quindi una fonte rilevante per quanto concerne sia la gestione del territorio e del patrimonio edilizio, che la condizione sociale relativamente al periodo successivo alla Seconda guerra mondiale.  
+
+Sul tema della formazione professionale, l’Archivio storico regionale, oltre alla documentazione prodotta successivamente alla sua istituzione, conserva fondi dell’Ispettorato interprovinciale di Bologna, dell’Istituto nazionale per l’addestramento e il perfezionamento dei lavoratori dell’industria - I.N.A.P.L.I. (1950 – 1972), del Consorzio provinciale per l’istruzione tecnica (C.P.I.T.) di Bologna (1946 – 1977) e del Coordinamento regionale Emilia-Romagna e dei singoli centri dell’Ente nazionale per l’addestramento dei lavoratori del commercio  - E.N.A.L.C., (1947 – 1972 con docc. al 1977).
+Attualmente i fondi conservati occupano oltre 8 chilometri di scaffalature. Di grande rilevanza è il *corpus* fotografico individuato all’interno dei fondi documentali. Attualmente sono state descritte e digitalizzate 5. 868 immagini. Dal 2010 l’archivio è gestito dal Servizio Polo archivistico regionale (ParER) dell'Istituto per i beni artistici culturali e naturali della Regione Emilia-Romagna (IBC). 
+
+Gli archivi conservati sono descritti in IBC archivi, consultabili [a questo link](http://archivi.ibc.regione.emilia-romagna.it/ibc-cms/cms.item?munu_str=0_1_3&numDoc=9&flagview=viewItemCaster&selId=3se445d2c7af314d01&itemDoc=792&typeItem=1#nogo).
+
