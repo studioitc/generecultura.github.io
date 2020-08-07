@@ -75,13 +75,14 @@ layout: article
 - Archivio storico UDI Bologna
 - Archivio Camera del Lavoro di Bologna – Associazione Paolo Pedrelli
 - Museo del Patrimonio Industriale di Bologna, Sezione Biblioteca e Archivio
+- Archivio Storico Comunale di Bologna
 - Archivio Storico Regione Emilia-Romagna
 - Clionet - Associazione di ricerca storica e promozione culturale 
 - Istituto storico della Resistenza e dell’Età contemporanea di Forlì-Cesena
 
 ---
 
-**Altri partner del progetto**
+**Hanno preso parte al progetto**
 - Automobili Lamborghini Spa
 - Ducati Motor Spa
 - Fondazione Aldini-Valeriani 
@@ -90,3 +91,16 @@ layout: article
 - Vela Printing
 - Associazione Amici del Patrimonio Industriale
 - Centro Italiano Femminile – Sede di Bologna
+
+---
+
+**Redazione dei percorsi**
+- Stefano Bartolini
+- Eloisa Betti
+- Francesca Cozza
+- Tommaso Cerusici
+- Benedetto Fragnelli
+- Chiara Martinelli
+- Tito Menzani
+- Rossella Roncati
+- Alessio Zoeddu
