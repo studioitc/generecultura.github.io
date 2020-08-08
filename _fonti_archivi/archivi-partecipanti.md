@@ -73,3 +73,17 @@ Attualmente i fondi conservati occupano oltre 8 chilometri di scaffalature. Di g
 
 Gli archivi conservati sono descritti in IBC archivi, consultabili [a questo link](http://archivi.ibc.regione.emilia-romagna.it/ibc-cms/cms.item?munu_str=0_1_3&numDoc=9&flagview=viewItemCaster&selId=3se445d2c7af314d01&itemDoc=792&typeItem=1#nogo).
 
+
+---
+
+### Archivio Storico Comunale di Bologna 
+
+![Archivio Storico Comunale di Bologna](../images/archivi/archivio-storico-comunale-bologna.jpg)
+
+L’ Archivio Storico Comunale di Bologna conserva la documentazione prodotta dall’amministrazione nel corso dell’attività istituzionale di governo della città dal 1801 al 1970. Il corpus archivistico principale è costituito dal carteggio amministrativo, risultato del complesso di carte prodotte e ricevute nello svolgimento delle pratiche competenti. L’Archivio conserva la serie dei registri di protocollo, dei nominativi e della materia.
+
+Il sistema che consente l’archiviazione dei documenti è il Titolario, quadro di classificazione costituito da categorie predeterminate che rispecchiamo le funzioni primarie dell’ente comunale a loro volta suddivisi in rubriche e sezioni che approfondiscono le particolarità delle singole materie.
+
+I principali fondi che compongono il patrimonio documentale sono: Repubblica Cispadana, 1797-1799; Atti della Magistratura, poi Giunta dal 1817; Cimitero della Certosa, 1801-1924; Gabinetto del Podestà, 1933-1945; Gabinetto del Sindaco, 1945-1960; Scritture Private, 1647-1951. Conviene ricordare anche alcuni fondi aggregati: Archivio Ente Comunale Assistenza e Opere Pie annesse, 1342-1985; Archivio della Guardia Civica, 1831-1849, poi Nazionale, 1859-1889; Archivio dell’Ufficio Notizie dei militari bolognesi nella Grande Guerra, 1915-1918; Archivio Servizio di vigilanza sull’adempimento dell’obbligo scolastico, 1902-1970.
+
+L’Archivio Scuola professionale Regina Margherita – Istituto Elisabetta Sirani, 1903-1987, conserva indici di protocollo, registri personali, maturità, libri di testo, verbali esami, immagini e altro, inerenti al progetto *Genere, lavoro e cultura tecnica tra passato e futuro*
