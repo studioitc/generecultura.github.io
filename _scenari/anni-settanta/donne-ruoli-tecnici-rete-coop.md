@@ -1,0 +1,23 @@
+---
+title: Le donne con ruoli tecnici nella costruzione della moderna rete di vendita Coop
+preview: Nel 1957, a Milano, veniva inaugurato il primo supermercato della storia d’Italia. Di lì in poi anche il nostro paese fu attraversato dalla cosiddetta rivoluzione commerciale, contraddistinta dalla crescente scomparsa di negozi al dettaglio tradizionali e dal parallelo successo di nuove strutture di vendita caratterizzate dal libero servizio.
+img: images/scenari/donne-ruoli-tecnici-rete-coop.jpg
+permalink: /scenari/anni-settanta/donne-ruoli-tecnici-rete-coop
+layout: article
+---
+
+Nel 1957, a Milano, veniva inaugurato il primo supermercato della storia d’Italia. Di lì in poi anche il nostro paese fu attraversato dalla cosiddetta rivoluzione commerciale, contraddistinta dalla crescente scomparsa di negozi al dettaglio tradizionali e dal parallelo successo di nuove strutture di vendita caratterizzate dal libero servizio (o self-service). Anche le cooperative di consumo investirono in questa direzione, dando luogo a una delle più grandi e sorprendenti ristrutturazioni della rete di vendita nel panorama europeo. Si trattava di razionalizzare il settore – favorendo le fusioni delle cooperative dei medesimi comprensori – e di chiudere gli spacci e gli empori tradizionali per aprire supermercati a insegna Coop.
+Pur se questo processo iniziò negli anni sessanta – il primo supermercato Coop fu inaugurato nel 1963 a Reggio Emilia – fu soprattutto nel decennio successivo che si collocano le fasi cruciali di queste trasformazioni. Oltre al consorzio nazionale, il Coop Italia fondato nel 1967, ci fu un altro organismo deputato a presiedere tali cambiamenti, e cioè l’Inres, un consorzio nato nel 1969 con il nome di Istituto nazionale ricerche economiche e sociali, dato che inizialmente si pensava che avrebbe svolto prevalentemente indagini di mercato.
+
+Invece l’Inres è stata una struttura pivotale di importanza strategica, che in oltre mezzo secolo di attività ha contribuito a cambiare il volto della Coop, con strutture commerciali via via adeguate alle esigenze dei consumatori, segmentate per canale di vendita, e soprattutto costantemente all’avanguardia nel sempre più concorrenziale contesto della grande distribuzione italiana. L’Inres è stata pioniere nella realizzazione degli ipermercati, nella rimodulazione degli spazi interni ai centri commerciali, sul versante dell’efficientamento energetico, fino all’avveniristica realizzazione del «supermercato del futuro» all’Expo 2015 di Milano. 
+
+Oggi oltre un terzo del personale tecnico dell’Inres è composto da donne, in larga prevalenza altamente qualificate, ovvero con lauree in ingegneria o architettura e specializzazioni in bioedilizia o green technologies. Ma come è facile immaginare, agli esordi la composizione del personale di questo consorzio era quasi esclusivamente maschile. Una delle prime donne a rompere gli schemi tradizionali fu Roberta Ferrari, nata nel 1945, architetta e dal 1981 in forza alla cooperazione di consumo genovese – fino a diventare direttore allo sviluppo di Coop Liguria –, che sedette nel consiglio di amministrazione dell’Inres per oltre un quarto di secolo. Oltre a lei alcune altre donne con competenze tecniche importanti svolsero un ruolo cruciale, quali Monica Pregreffi e Susanna Ugolini, ricoprendo anche funzioni direttive di alto livello. Ecco quindi che in un contesto particolarmente all’avanguardia come quello dell’Inres – inhouse di quella che per vari decenni fu la principale catena della grande distribuzione italiana, ovvero la Coop – ritroviamo anche alcune donne nei ruoli più alti della direzione tecnica e progettuale. 
+
+Più in generale, tutta la cooperazione di consumo fu un contesto nel quale le donne ebbero ruoli tecnici, amministrativi e operativi di varia natura, oltre ad essere socie clienti in misura molto maggiore degli uomini.
+
+---
+
+### Bibliografia
+- M.Cappelli, M. Sarzotti (a cura di), *Inres 50. Una storia di cooperazione, 1969/2019*, Pioltello, Rotolito, 2019
+- E. Mannari (a cura di), *La Coop di un altro genere. Lavoro, rappresentazioni, linguaggi e ruoli al femminile da “La Proletaria” a “Unicoop Tirreno” (1945-2000)*, Milano, Bruno Mondadori, 2015.
+- V. Zamagni, P. Battilani, A.Casali, *La cooperazione di consumo in Italia. Centocinquant’anni della Coop consumatori: dal primo spaccio a leader della moderna distribuzione*, Bologna, Il Mulino, 2004.
