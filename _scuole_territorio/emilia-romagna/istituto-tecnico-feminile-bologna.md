@@ -17,5 +17,6 @@ L’anno 1968-’69 vede le ultime iscrizioni all’ITIF dal momento che, a part
 ---
 
 ### Bibliografia
+
 - B. Fragnelli, *L’Istituto tecnico Industriale Femminile di Bologna*, in ScuolaOfficina, 1/2020.
 - L.Santoli, *Una donna diplomata Perito a Bologna negli anni Sessanta*, in ScuolaOfficina, 1/2020.
