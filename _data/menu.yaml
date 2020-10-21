@@ -13,15 +13,15 @@
 - title: Scenari
   sub:
     - title: Età liberale
-      url: "/scenari/eta-liberale"
+      url: /scenari/eta-liberale/
     - title: Ventennio fascista
       url: "#"
     - title: Ricostruzione
-      url: "#"
+      url: /scenari/ricostruzione/
     - title: Boom economico
       url: /scenari/boom-economico
     - title: Anni Settanta
-      url: "/scenari/anni-settanta"
+      url: /scenari/anni-settanta/
 - title: "Scuole/Territorio"
   sub:
     - title: Emilia-Romagna
@@ -33,9 +33,9 @@
 - title: Biografie
   sub:
     - title: Imprenditrici
-      url: /biografie/imprenditrici
+      url: /biografie/imprenditrici/
     - title: Diplomate
-      url: "#"
+      url: "/biografie/diplomate/"
 - title: "Lavoro/Diritti"
   sub:
     - title: Cittadine e lavoratrici

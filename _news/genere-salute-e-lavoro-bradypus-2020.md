@@ -1,6 +1,6 @@
 ---
-title: Le ombre del fordismo
-preview: Sviluppo industriale, occupazione femminile e precarietà del lavoro nel trentennio glorioso
+title: Genere, salute e lavoro dal fascismo alla Repubblica
+preview: Spazi urbani e contesti industriali
 img: images/news/genere-salute-e-lavoro-bradypus-2020.jpg
 layout: article
 permalink: news/genere-salute-e-lavoro-bradypus-2020
