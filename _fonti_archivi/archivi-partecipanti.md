@@ -87,3 +87,53 @@ Il sistema che consente l’archiviazione dei documenti è il Titolario, quadro 
 I principali fondi che compongono il patrimonio documentale sono: Repubblica Cispadana, 1797-1799; Atti della Magistratura, poi Giunta dal 1817; Cimitero della Certosa, 1801-1924; Gabinetto del Podestà, 1933-1945; Gabinetto del Sindaco, 1945-1960; Scritture Private, 1647-1951. Conviene ricordare anche alcuni fondi aggregati: Archivio Ente Comunale Assistenza e Opere Pie annesse, 1342-1985; Archivio della Guardia Civica, 1831-1849, poi Nazionale, 1859-1889; Archivio dell’Ufficio Notizie dei militari bolognesi nella Grande Guerra, 1915-1918; Archivio Servizio di vigilanza sull’adempimento dell’obbligo scolastico, 1902-1970.
 
 L’Archivio Scuola professionale Regina Margherita – Istituto Elisabetta Sirani, 1903-1987, conserva indici di protocollo, registri personali, maturità, libri di testo, verbali esami, immagini e altro, inerenti al progetto *Genere, lavoro e cultura tecnica tra passato e futuro*
+
+
+---
+
+### Fondazione Valore Lavoro di Pistoia 
+
+![Fondazione Valore Lavoro di Pistoia](../images/archivi/fondazione-valore-lavoro-pistoia.jpg)
+
+La Fondazione Valore Lavoro onlus nasce nel 2011 per volontà della CGIL di Pistoia, divenendo proprietaria dell’archivio storico della Camera del Lavoro e delle categorie e servizi collegati. L’archivio, 400 metri lineari circa, conserva anche un fondo fotografico di 6.000 stampe, una memoteca per le fonti orali e numerose audio e videoregistrazioni d’epoca, ed è stato dichiarato di notevole interesse storico dal Ministero per i beni e le attività culturali nel 2010. La FVL inoltre gestisce una ricca biblioteca specialistica, comprensiva di emeroteca.
+
+La Fondazione promuove lo studio della storia sociale, economica, politica e culturale dell’Italia contemporanea, della comunità locale, del movimento sindacale e del lavoro. Raccoglie, conserva e valorizza il patrimonio archivistico documentario, iconografico e memoriale, della comunità locale, del movimento sindacale e del lavoro. Promuove iniziative di Labour Public History quali mostre, eventi pubblici, film-documentari, pubblicazioni, raccolta di memorie orali. 
+
+Tra le sue attività degne di nota segnaliamo: la mostra ed il libro omonimo *La mezzadria nel Novecento*; il film documentario di storia orale *In cerca della felicità. Storie di immigrati a Pistoia*; i progetti *L’archivio del paese. La storia italiana attraverso il lavoro e La chiave a stella. Il lavoro industriale nel ‘900*; la realizzazione e collocazione in piazza della statua *Scioperanti*; la mostra *Artiste al lavoro. Il lavoro delle donne*; la partecipazione alla pubblicazione di ricerche storiche sulla contrattazione nel settore calzaturiero e sui movimenti sociali del 1969. 
+
+Infine, una menzione a sé merita la realizzazione dell’annuale rassegna CGIL Incontri, che propone momenti di confronto con la partecipazione di esponenti del mondo della cultura, della politica, del sindacalismo e dell’attivismo sociale italiani e stranieri di primo piano.
+
+
+---
+
+### Archivio storico Fiom nazionale
+
+![Archivio storico Fiom nazionale](../images/archivi/archivio-storico-fiom-nazionale.jpg)
+
+L’Archivio della Fiom, ricollocato nella sede di Corso Trieste 36 a Roma, è stato oggetto di un lavoro di riordino che ne consente oggi la completa consultabilità, nella sua parte storica, attraverso appositi inventari cartacei. 
+L’archivio è riconosciuto, da parte della Soprintendenza Archivistica del Lazio, di “notevole interesse storico” dal 1995 e come tale vigilato.
+
+L'archivio storico della Fiom nazionale conserva i fondi della Federazione Impiegati Operai Metallurgici FIOM (1945-1995, con materiale in copia dal 1901), della Federazione lavoratori metalmeccanici FLM (1973-1984), dell'azienda metalmeccanica romana Voxson e quello dei Cantieri navali Franco Tosi (carte delle commissioni interne dell'azienda e della Fiom di Taranto).
+
+Complessivamente si tratta di circa 107 metri lineari di materiali cartacei e documentali così organizzati: 100 metri fondo Fiom, 4 metri fondo Flm, 1 metro fondo Voxson e 2 metri fondo Cantieri navali Franco Tosi. A questi si aggiungono circa 18 metri lineari di materiali rilegati (atti di Congressi, Comitati Centrali, convegni e assemblee) e a stampa (tra cui le raccolte di Rassegna Sindacale, Cgil Notiziario, Bollettino Fiom, Esperienze e Orientamenti, Sindacato Moderno, Unità Operaia, Notizie Internazionali, Meta, Informa Fiom, Meta Drin, Green Fiom, Idee, Flm Notizie, I Consigli).
+
+L’archivio si arricchisce di ulteriori 150 metri lineari di materiali documentali provenienti sia dagli uffici correnti della Fiom nazionale che dal deposito esterno, oltre che libri, riviste, fotografie e manifesti. Questi ultimi materiali sono attualmente in fase di lavorazione.
+
+
+---
+
+### Archivio storico della Camera del Lavoro di Reggio Emilia
+
+![Archivio storico della Camera del Lavoro di Reggio Emilia](../images/archivi/archivio-storico-camera-lavoro-reggio-emilia.jpg)
+
+La Camera del Lavoro Territoriale di Reggio Emilia ha costituito il proprio archivio con la finalità di conservare, catalogare e valorizzare il materiale custodito. Nel 1985, in ragione della delibera del Consiglio Comunale di Reggio Emilia, parte dell’archivio storico è accolta in deposito presso la biblioteca Panizzi.
+
+Nel 1996 l’archivio storico e l’archivio di deposito sono stati dichiarati di notevole interesse storico dal Sovrintendente archivistico per l’Emilia–Romagna.
+
+Nel dicembre 2001 l’archivio storico della Camera del Lavoro di Reggio Emilia è stato trasferito, in deposito, presso la sede del Polo Archivistico allestito dall’Amministrazione Comunale di Reggio Emilia. Il trasferimento non ha ricompreso ne’ le raccolte (audiovisivi, biblioteca, contratti di lavoro, emeroteca, letteratura grigia e materiale minore, manifesti, materiale fotografico, oggettistica) ne’ la documentazione digitale aggregate all’archivio, che sono conservate in sede.
+
+Il trattamento, parzialmente finanziato dal Ministero dei Beni Culturali ed Ambientali ed eseguito dal 2002 al 2005, ha portato anche alla pubblicazione, nel 2006, del volume “Archivio storico della Camera del Lavoro Territoriale di Reggio Emilia – Inventario a cura di Sabina Brandolini”, in cui sono descritti 23 fondi (uno della Camera Confederale del Lavoro e gli altri delle Federazioni provinciali di categoria) fino al 1981, pari a 86 metri lineari di materiale.
+
+Dopo l’intervento di riordino terminato nel 2005, l’archivio nel suo complesso è costituito da materiale condizionato in 1819 contenitori, pari a oltre 200 metri lineari di materiale con estremi cronologici 1872-1994.
+
+L’inventario dell’Archivio storico della Camera del Lavoro è stato interamente inserito sulla piattaforma IBC Archivi della Regione Emilia-Romagna.
