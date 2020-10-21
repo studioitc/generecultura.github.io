@@ -7,4 +7,4 @@ permalink: news/betti-crozza-roncati-2020
 archived: false
 ---
 
-[Scarica il programma](../../images/news/betti-crozza-roncati-2020.pdf)
+[Scarica l'articolo](../../images/news/betti-crozza-roncati-2020.pdf)

@@ -7,4 +7,4 @@ permalink: news/scuola-officina-1-2020
 archived: false
 ---
 
-[Scarica il programma](../../images/news/scuola-officina-1-2020.pdf)
+[Scarica l’indice](../../images/news/scuola-officina-1-2020.pdf)

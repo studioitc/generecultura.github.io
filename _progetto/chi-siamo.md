@@ -79,6 +79,9 @@ layout: article
 - Archivio Storico Regione Emilia-Romagna
 - Clionet - Associazione di ricerca storica e promozione culturale 
 - Istituto storico della Resistenza e dell’Età contemporanea di Forlì-Cesena
+- Fondazione Valore Lavoro Onlus
+- Archivio storico della Camera del Lavoro di Reggio Emilia
+- Archivio Storico Fiom Nazionale
 
 ---
 
@@ -97,10 +100,12 @@ layout: article
 **Redazione dei percorsi**
 - Stefano Bartolini
 - Eloisa Betti
+- Gabriele Bezzi
 - Francesca Cozza
 - Tommaso Cerusici
 - Benedetto Fragnelli
 - Chiara Martinelli
 - Tito Menzani
+- Romana Michelini
 - Rossella Roncati
 - Alessio Zoeddu
