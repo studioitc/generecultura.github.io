@@ -19,7 +19,7 @@
     - title: Ricostruzione
       url: /scenari/ricostruzione/
     - title: Boom economico
-      url: /scenari/boom-economico
+      url: /scenari/boom-economico/
     - title: Anni Settanta
       url: /scenari/anni-settanta/
 - title: "Scuole/Territorio"
@@ -33,9 +33,9 @@
 - title: Biografie
   sub:
     - title: Imprenditrici
-      url: /biografie/imprenditrici/
+      url: /biografie/imprenditrici
     - title: Diplomate
-      url: "/biografie/diplomate/"
+      url: /biografie/diplomate
 - title: "Lavoro/Diritti"
   sub:
     - title: Cittadine e lavoratrici
