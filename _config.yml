@@ -29,6 +29,8 @@ collections:
     output: true
   didattica_formazione:
     output: true
+  video:
+    output: true
 
 defaults:
   - values:
