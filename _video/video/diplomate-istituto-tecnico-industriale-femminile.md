@@ -15,76 +15,77 @@ Le interviste condotte da Eloisa Betti (con il supporto di Antonio Campigotto, F
 
 ## Carla Sandirocco
 
-<iframe src="https://vimeo.com/471964152/d9e6ac1c62" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471964152?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Laura Santoli
 
-<iframe src="https://vimeo.com/471964553/52e352611f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471964553?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Mara Benassi
 
-<iframe src="https://vimeo.com/471964976/abbdea6817" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471964976?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Marcella Bonvicini
 
-<iframe src="https://vimeo.com/471966821/65350995a8" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471966821?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Nadia Gruppioni
 
-<iframe src="https://vimeo.com/471967985/69825d4a8b" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471967985?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Valentina Zitelli
 
-<iframe src="https://vimeo.com/471969228/0d38f4fde3" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471969228?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Rosaria Defraia
 
-<iframe src="https://vimeo.com/471971128/ca7256f250" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471971128?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Sandra Tavazzi
 
-<iframe src="https://vimeo.com/471972790/223774843b" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471972790?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Anna Rosa Fughelli
 
-<iframe src="https://vimeo.com/471974261/ad698cfc7f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/471974261?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Roberta Corsini e Nadia Badiali
 
-<iframe src="https://vimeo.com/471975522/05c3ae7e8d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471975522?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
 
 ## Roberta Busi
 
-<iframe src="https://vimeo.com/471976223/2f4216ffc2" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/471976223?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
