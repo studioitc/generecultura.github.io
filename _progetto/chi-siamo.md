@@ -7,6 +7,7 @@ layout: article
 **Promotori**
 - Unione Donne in Italia (UDI) sede di Bologna 
 - Museo del Patrimonio industriale di Bologna 
+- Clionet - Associazione di ricerca storica e promozione culturale
 
 ---
 
@@ -48,6 +49,7 @@ layout: article
 - Marta Magrinelli (Archivio storico UDI Bologna)
 - Francesca Cozza (Archivio storico UDI Bologna)
 - Rossella Roncati (Archivio storico UDI Bologna)
+- Federico Morgagni (Clionet)
 
 ---
 

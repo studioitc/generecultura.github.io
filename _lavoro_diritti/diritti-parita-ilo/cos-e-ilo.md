@@ -9,7 +9,7 @@ permalink: /lavoro_diritti/diritti-parita-ilo/cos-e-ilo
 
 La brochure illustra la storia, la struttura, il mandato e i programmi dell’OIL.
 
-[Scarica la brochure](../../images/lavoro_diritti/cos-e-ilo/L'OIL-che-cosa-è-e-cosa-fa.pdf)
+[Scarica la brochure](../../images/lavoro_diritti/cos-e-ilo/L-OIL-che-cosa-e-e-cosa-fa.pdf)
 
 ---
 
@@ -17,7 +17,7 @@ La brochure illustra la storia, la struttura, il mandato e i programmi dell’OI
 
 La brochure contiene una breve descrizione dell’OIL e del suo funzionamento.
 
-[Scarica la brochure](../../images/lavoro_diritti/cos-e-ilo/Uno-sguardo-sull'ILO.pdf)
+[Scarica la brochure](../../images/lavoro_diritti/cos-e-ilo/Uno-sguardo-sull-ILO.pdf)
 
 ---
 
@@ -25,4 +25,4 @@ La brochure contiene una breve descrizione dell’OIL e del suo funzionamento.
 
 Il rapporto illustra la ricerca effettuata dall’Ufficio dell’OIL per l’Italia relativa all’azione dell’organizzazione nel periodo 1919-2018.
 
-[Scarica il rapporto](../../images/lavoro_diritti/cos-e-ilo/L'Italia-nei-cent'anni-dell'OIL.pdf)
+[Scarica il rapporto](../../images/lavoro_diritti/cos-e-ilo/L-Italia-nei-cent-anni-dell-OIL.pdf)
