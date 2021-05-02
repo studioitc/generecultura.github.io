@@ -60,6 +60,7 @@ layout: article
 - Alessandra Cantagalli (Università di Bologna)
 - Pietro Causarano (Università di Firenze)
 - Carlo De Maria (Università di Bologna)
+- Pamela Giorgi (Archivio storico Indire)
 - Mattia Granata (Fondazione Ivano Barberini)
 - Maura Grandi (Museo del Patrimonio Industriale, Bologna)
 - Chiara Martinelli (Università di Firenze)
@@ -106,8 +107,10 @@ layout: article
 - Francesca Cozza
 - Tommaso Cerusici
 - Benedetto Fragnelli
+- Pamela Giorgi
 - Chiara Martinelli
 - Tito Menzani
 - Romana Michelini
 - Rossella Roncati
 - Alessio Zoeddu
+- Irene Zoppi

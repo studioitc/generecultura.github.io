@@ -1,190 +1,202 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<!-- For IE -->
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-		<!-- For Resposive Device -->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-        <meta name="description" content="{{ site.description }}">
-
-        <title>{{ site.title }}</title>
-
-		<!-- Favicon -->
-		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
-
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
-
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-
-		<!-- Main style sheet -->
-		<link rel="stylesheet" type="text/css" href="{{ "css/style.css" | relative_url }}">
-		<!-- responsive style sheet -->
-        <link rel="stylesheet" type="text/css" href="{{ "css/responsive.css" | relative_url }}">
-        
-        {% if page.custom_css %}
-            {% for css in page.custom_css %}
-                {% if css contains "http" %}
-                <link rel="stylesheet" href="{{ css }}">
-                {% else %}
-                <link rel="stylesheet" href={{"css/" | append: css | append: ".css" | relative_url }}>
-                {% endif %}
-            {% endfor %}
-        {% endif %}
-
-
-		<!-- Fix Internet Explorer ______________________________________-->
-
-		<!--[if lt IE 9]>
-			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-			<script src="vendor/html5shiv.js"></script>
-			<script src="vendor/respond.js"></script>
-		<![endif]-->
-			
-	</head>
-
-	<body>
-		<div class="main-page-wrapper">
-
-
-
-			<!-- 
-			=============================================
-				Theme Header
-			============================================== 
-			-->
-			{% include header.html %}
-            
-            {{ content }}
-
-
-
-
-
-
-			<!--
-			=====================================================
-				Footer
-			=====================================================
-			-->
-			<footer>
-				<div class="container">
-					<a href="{{ "/" | relative_url }}" class="logo">
-						<img src="{{ "images/logo/logo.png" | relative_url }}" alt="{{ site.title }}">
-					</a>
-				</div>
-
-				<div class="container-fluid">
-					<div class="row logo my-3 py-3 border-top border-bottom border-light">
-
-						<div class="col-4 col-sm-2 align-self-center text-center p-1">
-							<img src="{{"images/logo/udi.jpg" | relative_url }}" alt="UDI">
-						</div>
-						<div class="col-4 col-sm-2 align-self-center text-center">
-							<img src="{{"images/logo/museo-patrimonio.jpg" | relative_url }}" alt="UDI">
-						</div>
-						<div class="col-4 col-sm-3 align-self-center text-center">
-							<img src="{{"images/logo/regione-er.jpg" | relative_url }}" alt="Regione Emilia-Romagna">
-						</div>
-						<div class="col-4 col-sm-1 align-self-center text-center">
-							<img src="{{"images/logo/fondazione-del-monte.jpg" | relative_url }}" alt="Fondazione del Monte">
-						</div>
-						<div class="col-4 col-sm-2 align-self-center text-center">
-							<img src="{{"images/logo/ilo.jpg" | relative_url }}" alt="Organizzazione Internazionale del Lavoro">
-						</div>
-						<div class="col-4 col-sm-2 align-self-center text-center">
-							<img src="{{"images/logo/clionet.jpg" | relative_url }}" alt="Clionet">
-						</div>
-
-					</div>
-				</div>
-
-				<div class="container">
-					<p>Sito web creato da <a href="https://bradypus.net" target="_blank">BraDypUS. Communicating Cultural Heritage</a></p>
-				</div>
-			</footer>
-
-
-
-
-			<!-- =============================================
-				Loading Transition
-			============================================== -->
-			<div id="loader-wrapper">
-				<div id="preloader_1">
-	                <span></span>
-	                <span></span>
-	                <span></span>
-	                <span></span>
-	                <span></span>
-	            </div>
-			</div>
-
-			
-	        <!-- Scroll Top Button -->
-			<button class="scroll-top tran4s p-color-bg">
-				<i class="fa fa-long-arrow-up" aria-hidden="true"></i>
-			</button>
-
-
-
-
-		<!-- Js File_________________________________ -->
-
-		<!-- j Query -->
-		<!-- <script src="https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script> -->
-
-		<script
-			src="https://code.jquery.com/jquery-3.4.1.min.js"
-			integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-			crossorigin="anonymous"></script>
-		<script
-		src="https://code.jquery.com/jquery-migrate-3.1.0.min.js"
-		integrity="sha256-ycJeXbll9m7dHKeaPbXBkZH8BuP99SmPm/8q5O+SbBc="
-		crossorigin="anonymous"></script>
-		
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
-
-		<!-- Vendor js _________ -->
-		
-		<!-- revolution -->
-		<script src="{{"vendor/revolution/jquery.themepunch.tools.min.js" | relative_url }}"></script>
-		<script src="{{"vendor/revolution/jquery.themepunch.revolution.min.js" | relative_url }}"></script>
-		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.slideanims.min.js" | relative_url }}"></script>
-		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.layeranimation.min.js" | relative_url }}"></script>
-		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.navigation.min.js" | relative_url }}"></script>
-		<script type="text/javascript" src="{{"vendor/revolution/revolution.extension.kenburn.min.js" | relative_url }}"></script>
-		<!-- <script type="text/javascript" src="{{"vendor/fancy-box/jquery.fancybox.pack.js" | relative_url }}"></script> -->
-		
-		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-
-
-		<!-- Theme js -->
-        <script type="text/javascript" src="{{"js/theme.js" | relative_url }}"></script>
-        
-        {% if page.custom_js %}
-            {% for js in page.custom_js %}
-            {% if js contains "http" %}
-            <script src="{{ js }}"></script>
-            {% else %}
-            <script src={{ "js/" | append: js | append: ".js" | relative_url }}></script>
-            {% endif %}
-        
-            {% endfor %}
-        {% endif %}
+<head>
+  <meta charset="UTF-8">
+  <!-- For IE -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <!-- For Resposive Device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <meta name="description" content="{{ site.description }}">
+  
+  <title>{{ site.title }}</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+  
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
     
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+    
+    <!-- Main style sheet -->
+    <link rel="stylesheet" type="text/css" href="{{ "css/style.css" | relative_url }}">
+    <!-- responsive style sheet -->
+    <link rel="stylesheet" type="text/css" href="{{ "css/responsive.css" | relative_url }}">
+    
+    {% if page.custom_css %}
+    {% for css in page.custom_css %}
+    {% if css contains "http" %}
+    <link rel="stylesheet" href="{{ css }}">
+    {% else %}
+    <link rel="stylesheet" href={{"css/" | append: css | append: ".css" | relative_url }}>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+    
+    
+    <!-- Fix Internet Explorer ______________________________________-->
+    
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="vendor/html5shiv.js"></script>
+      <script src="vendor/respond.js"></script>
+      <![endif]-->
+      
+    </head>
+    
+    <body>
+      <div class="main-page-wrapper">
+        
+        
+        
+        <!-- 
+          =============================================
+          Theme Header
+          ============================================== 
+        -->
+        {% include header.html %}
+        
+        {{ content }}
+        
+        
+        
+        
+        
+        
+        <!--
+          =====================================================
+          Footer
+          =====================================================
+        -->
+        <footer>
+          <div class="container">
+            <a href="{{ "/" | relative_url }}" class="logo">
+              <img src="{{ "images/logo/logo.png" | relative_url }}" alt="{{ site.title }}">
+            </a>
+          </div>
+          
+          <div class="container-fluid border-top border-bottom my-3">
 
-		</div> <!-- /.main-page-wrapper -->
-	</body>
-</html>
+            <div class="row logo my-3 py-3 border-light">
+              
+              <div class="col-2 col-sm-2 offset-sm-2 align-self-center text-center p-1">
+                <img src="{{"images/logo/udi.jpg" | relative_url }}" alt="UDI">
+              </div>
+
+              <div class="col-4 col-sm-2 align-self-center text-center">
+                <img src="{{"images/logo/museo-patrimonio.jpg" | relative_url }}" alt="Museo del Patrimonio Bologna">
+              </div>
+
+              <div class="col-4 col-sm-3 align-self-center text-center">
+                <img src="{{"images/logo/regione-er.jpg" | relative_url }}" alt="Regione Emilia-Romagna">
+              </div>
+              
+              <div class="col-2 col-sm-1 align-self-center text-center">
+                <img src="{{"images/logo/fondazione-del-monte.jpg" | relative_url }}" alt="Fondazione del Monte">
+              </div>
+            </div>
+
+
+            <div class="row logo my-3 py-3 border-light">
+
+              <div class="col-4 col-sm-2 offset-sm-3 align-self-center text-center">
+                <img src="{{"images/logo/ilo.jpg" | relative_url }}" alt="Organizzazione Internazionale del Lavoro">
+              </div>
+              <div class="col-4 col-sm-2 align-self-center text-center">
+                <img src="{{"images/logo/indire.jpg" | relative_url }}" alt="INDIRE: Istituto Nazionale di Documentazione, Innovazione e Ricerca Educativa">
+              </div>
+              <div class="col-4 col-sm-2 align-self-center text-center">
+                <img src="{{"images/logo/clionet.jpg" | relative_url }}" alt="Clionet">
+              </div>
+              
+            </div>
+          </div>
+          
+          <div class="container">
+            <p>Sito web creato da <a href="https://bradypus.net" target="_blank">BraDypUS. Communicating Cultural Heritage</a></p>
+          </div>
+        </footer>
+        
+        
+        
+        
+        <!-- =============================================
+          Loading Transition
+          ============================================== -->
+          <div id="loader-wrapper">
+            <div id="preloader_1">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+          
+          
+          <!-- Scroll Top Button -->
+          <button class="scroll-top tran4s p-color-bg">
+            <i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+          </button>
+          
+          
+          
+          
+          <!-- Js File_________________________________ -->
+          
+          <!-- j Query -->
+          <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script> -->
+          
+          <script
+          src="https://code.jquery.com/jquery-3.4.1.min.js"
+          integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+          crossorigin="anonymous"></script>
+          <script
+          src="https://code.jquery.com/jquery-migrate-3.1.0.min.js"
+          integrity="sha256-ycJeXbll9m7dHKeaPbXBkZH8BuP99SmPm/8q5O+SbBc="
+          crossorigin="anonymous"></script>
+          
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+          
+          
+          <!-- Vendor js _________ -->
+          
+          <!-- revolution -->
+          <script src="{{"vendor/revolution/jquery.themepunch.tools.min.js" | relative_url }}"></script>
+          <script src="{{"vendor/revolution/jquery.themepunch.revolution.min.js" | relative_url }}"></script>
+          <script type="text/javascript" src="{{"vendor/revolution/revolution.extension.slideanims.min.js" | relative_url }}"></script>
+          <script type="text/javascript" src="{{"vendor/revolution/revolution.extension.layeranimation.min.js" | relative_url }}"></script>
+          <script type="text/javascript" src="{{"vendor/revolution/revolution.extension.navigation.min.js" | relative_url }}"></script>
+          <script type="text/javascript" src="{{"vendor/revolution/revolution.extension.kenburn.min.js" | relative_url }}"></script>
+          <!-- <script type="text/javascript" src="{{"vendor/fancy-box/jquery.fancybox.pack.js" | relative_url }}"></script> -->
+          
+          <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+          
+          
+          
+          <!-- Theme js -->
+          <script type="text/javascript" src="{{"js/theme.js" | relative_url }}"></script>
+          
+          {% if page.custom_js %}
+          {% for js in page.custom_js %}
+          {% if js contains "http" %}
+          <script src="{{ js }}"></script>
+          {% else %}
+          <script src={{ "js/" | append: js | append: ".js" | relative_url }}></script>
+          {% endif %}
+          
+          {% endfor %}
+          {% endif %}
+          
+          
+        </div> <!-- /.main-page-wrapper -->
+      </body>
+      </html>

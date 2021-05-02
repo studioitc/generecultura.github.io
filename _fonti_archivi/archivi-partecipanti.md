@@ -137,3 +137,15 @@ Il trattamento, parzialmente finanziato dal Ministero dei Beni Culturali ed Ambi
 Dopo l’intervento di riordino terminato nel 2005, l’archivio nel suo complesso è costituito da materiale condizionato in 1819 contenitori, pari a oltre 200 metri lineari di materiale con estremi cronologici 1872-1994.
 
 L’inventario dell’Archivio storico della Camera del Lavoro è stato interamente inserito sulla piattaforma IBC Archivi della Regione Emilia-Romagna.
+
+---
+
+### L’Archivio storico INDIRE (Istituto Nazionale di Documentazione, Innovazione e Ricerca Educativa)
+
+![L’Archivio storico INDIRE](../images/archivi/archivio-storico-indire.jpg)
+
+Indire è il più antico ente di ricerca del Ministero dell’Istruzione. Fondato a Firenze nel 1925, l’Istituto conserva un ricco e particolare patrimonio documentario otto-novecentesco che ne fa uno dei pochi archivi specializzati in Italia nella raccolta e nella valorizzazione di materiale documentario di interesse storico-pedagogico.
+
+In conseguenza delle numerose trasformazioni istituzionali subite in ottant’anni di lavoro ininterrotto, l’Archivio storico dell’Istituto risulta in parte lacunoso. La documentazione relativa all’attività dei propri antecedenti istituzionali (cioè il Museo nazionale della scuola, il Centro didattico nazionale, il Centro didattico nazionale di studi e documentazione e la Biblioteca di documentazione pedagogica) è stata infatti in gran parte dispersa anche in seguito all’alluvione del 1966 e per un irriflessivo scarto d’archivio. Tuttavia, l’Indire conserva un patrimonio documentario di grande rilievo storico, composto da fondi estranei alle vicende dell’Ente, ma strettamente connessi per la tematica pedagogica che li contraddistingue.
+
+L’archivio è costituito da circa 95mila documenti (libri, e materiali didattici) e 14mila fotografie provenienti da tutto il territorio nazionale dalla fine del XIX secolo e agli anni Sessanta del XX secolo e che abbracciano vari temi: dall’edilizia scolastica, alle attività didattiche svolte nelle scuole (lezioni, esercitazioni ginniche, spettacoli, refezione, esperimenti scientifici, ecc.), fino alle attività culturali svolte dal Centro Didattico Nazionale di Firenze ([https://www.indire.it/patrimoniostorico/](https://www.indire.it/patrimoniostorico/)). 
