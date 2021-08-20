@@ -2,7 +2,7 @@
 title: "Contrattazione territoriale ed emersione delle “operaie senza fabbrica” del distretto calzaturiero della Valdinievole"
 preview: "Il riconoscimento del valore del lavoro femminile è passato anche attraverso la regolamentazione del lavoro a domicilio. Possiamo osservare un passaggio di questo percorso sul finire degli anni ‘70 nel distretto calzaturiero della Valdinievole, attraverso la contrattazione territoriale."
 img: images/scenari/operaie-senza-fabbrica.jpg
-permalink: /scenari/ventennio-fascista/operaie-senza-fabbrica
+permalink: /scenari/anni-settanta/operaie-senza-fabbrica
 layout: article
 ---
 
