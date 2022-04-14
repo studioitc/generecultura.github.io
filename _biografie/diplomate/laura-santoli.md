@@ -19,6 +19,5 @@ Dopo l’istituzione del Servizio Sanitario Nazionale (1978), il laboratorio ent
 
 ### Bibliografia
 
-- *45 anni di vita della G. Minganti & C. - Bologna, 1919-1964*, Tip. del commercio, Bologna 1964
-- P. Francia, *È morta Gilberta Minganti*, 11 luglio 1970
-- A. Campigotto, R. Curti, M. Grandi, A. Guenzi, *Prodotto a Bologna. Una identità industriale con cinque secoli di storia*, Renografica, Bologna 2000
+- G. Ascoli, *Le mosche bianche della tecnica*, in Noi Donne, 2/1966
+- L. Santoli, *Una donna diplomata Perito a Bologna negli anni Sessanta*, in ScuolaOfficina, 1/2020, pp. 18-23
