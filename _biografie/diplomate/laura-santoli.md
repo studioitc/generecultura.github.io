@@ -21,3 +21,4 @@ Dopo l’istituzione del Servizio Sanitario Nazionale (1978), il laboratorio ent
 
 - G. Ascoli, *Le mosche bianche della tecnica*, in Noi Donne, 2/1966.
 - L. Santoli, *Una donna diplomata Perito a Bologna negli anni Sessanta*, in ScuolaOfficina, 1/2020, pp. 18-23.
+
