@@ -101,16 +101,21 @@ layout: article
 ---
 
 **Redazione dei percorsi**
+- Carlo Arrighi
 - Stefano Bartolini
 - Eloisa Betti
 - Gabriele Bezzi
-- Francesca Cozza
 - Tommaso Cerusici
+- Vincenzo Cosentino
+- Francesca Cozza
+- Chiara Cozzatella
 - Benedetto Fragnelli
 - Pamela Giorgi
+- Diego Graziola
 - Chiara Martinelli
 - Tito Menzani
 - Romana Michelini
+- Alice Pollini
 - Rossella Roncati
 - Alessio Zoeddu
 - Irene Zoppi
