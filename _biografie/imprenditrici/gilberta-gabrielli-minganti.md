@@ -17,3 +17,4 @@ L’intelligenza con la quale Gilberta Gabrielli guida la Minganti, riconosciuta
 - *45 anni di vita della G. Minganti & C. - Bologna, 1919-1964*, Tip. del commercio, Bologna 1964
 - P. Francia, *È morta Gilberta Minganti*, 11 luglio 1970
 - A. Campigotto, R. Curti, M. Grandi, A. Guenzi, *Prodotto a Bologna. Una identità industriale con cinque secoli di storia*, Renografica, Bologna 2000
+- E. Betti, A. Campigotto, B. Fragnelli, M. Grandi (a cura di), *Noi siamo la Minganti. Bologna e il lavoro industriale tra fotografia e memoria, 1919-2019*, Bologna, Istituzione Bologna Musei-Museo del patrimonio industriale, 2020
