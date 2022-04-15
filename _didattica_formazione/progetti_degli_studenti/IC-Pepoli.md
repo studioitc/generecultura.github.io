@@ -1,5 +1,6 @@
 ---
 title: Progetti IC Pepoli (prof.ssa Vera di Grezia)
+permalink: didattica_formazione/progetti_degli_studenti/IC-Pepoli
 layout: article
 ---
 
