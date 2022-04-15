@@ -1,5 +1,6 @@
 ---
 title: CPIA Città Metropolitana di Bologna
+permalink: didattica_formazione/progetti_degli_studenti/CPIA_Bologna
 layout: article
 ---
 
