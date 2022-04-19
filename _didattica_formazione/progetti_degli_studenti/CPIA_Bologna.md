@@ -15,3 +15,5 @@ Quelle che vedete sono le riflessioni di studenti e studentesse emerse da questo
 ---
 
 ### I progetti degli studenti
+
+(in aggiornamento)
