@@ -1,5 +1,6 @@
 ---
 title: IC Sasso Marconi (prof.ssa Maria Panateri)
+img: images/progetto/progetto.jpg
 permalink: didattica_formazione/progetti_degli_studenti/IC-Sasso-Marconi
 layout: article
 ---
