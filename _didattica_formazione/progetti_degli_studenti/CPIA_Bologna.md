@@ -17,4 +17,4 @@ Quelle che vedete sono le riflessioni di studenti e studentesse emerse da questo
 
 ### I progetti degli studenti
 
-xfun::embed_file("images/didattica_formazione/CPIA Città Metropolitana di Bologna.pdf")
+![Città metropolitana di Bologna](images/didattica_formazione/CPIA Città Metropolitana di Bologna.pdf "Città metropolitana di Bologna")
