@@ -16,6 +16,3 @@ Quelle che vedete sono le riflessioni di studenti e studentesse emerse da questo
 ---
 
 ### I progetti degli studenti
-
-img: images/didattica_formazione/CPIA 1.png
-img: images/didattica_formazione/CPIA 2.png
