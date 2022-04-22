@@ -17,6 +17,4 @@ Quelle che vedete sono le riflessioni di studenti e studentesse emerse da questo
 
 ### I progetti degli studenti
 
-permalink: images/didattica_formazione/CPIA Città Metropolitana di Bologna.pdf
-
----
+(in aggiornamento)
