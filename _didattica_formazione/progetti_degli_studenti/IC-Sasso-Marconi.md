@@ -1,6 +1,6 @@
 ---
 title: IC Sasso Marconi (prof.ssa Maria Panateri)
-img: images/progetto/progetto.jpg
+img: images/didattica_formazione/3D Progetto orientamento.jpg
 permalink: didattica_formazione/progetti_degli_studenti/IC-Sasso-Marconi
 layout: article
 ---
