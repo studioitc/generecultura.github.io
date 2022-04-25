@@ -1,6 +1,6 @@
 ---
 title: CPIA Città Metropolitana di Bologna
-img: images/progetto/progetto.jpg
+img: images/didattica_formazione/cpia bologna.jpg
 permalink: didattica_formazione/progetti_degli_studenti/CPIA_Bologna
 layout: article
 ---
