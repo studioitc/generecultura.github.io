@@ -16,5 +16,3 @@ Le loro opere artistiche sono la prova di quanto sia importante diffondere consa
 ---
 
 ### I progetti degli studenti
-
-(in aggiornamento)
