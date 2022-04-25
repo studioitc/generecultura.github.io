@@ -19,3 +19,7 @@ I lavori che trovate qui sotto sono il frutto di un grande impegno da parte degl
 ### I progetti degli studenti
 
 I progetti creati dagli studenti della classe 3° sezione D possono essere consultati [qui](https://it.padlet.com/robertaalfieri1/Bookmarks)
+
+---
+
+### Alcuni esempi
