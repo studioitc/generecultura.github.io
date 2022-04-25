@@ -1,5 +1,6 @@
 ---
 title: IC Sasso Marconi (prof.ssa Maria Panateri)
+preview: La collaborazione con l’Istituto Comprensivo di Sasso Marconi è iniziata molto presto...
 img: images/didattica_formazione/3D Progetto orientamento.jpg
 permalink: didattica_formazione/progetti_degli_studenti/IC-Sasso-Marconi
 layout: article
