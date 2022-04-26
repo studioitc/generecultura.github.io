@@ -1,6 +1,6 @@
 ---
 title: Progetti IC Pepoli (prof.ssa Vera di Grezia)
-preview: L'Istituto Comprensivo Pepoli ha risposto fin da subito alle nostre proposte...
+preview: L'Istituto Comprensivo Pepoli ha risposto fin da subito alle nostre proposte con grande fervore e interesse
 img: images/didattica_formazione/IC Pepoli intro.jpg
 permalink: didattica_formazione/progetti_degli_studenti/IC-Pepoli
 layout: article
