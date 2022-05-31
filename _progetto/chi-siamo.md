@@ -112,10 +112,13 @@ layout: article
 - Benedetto Fragnelli
 - Pamela Giorgi
 - Diego Graziola
+- Roberta Labate
 - Chiara Martinelli
+- Valeria Mele
 - Tito Menzani
 - Romana Michelini
 - Alice Pollini
 - Rossella Roncati
+- Anna Scattini
 - Alessio Zoeddu
 - Irene Zoppi
