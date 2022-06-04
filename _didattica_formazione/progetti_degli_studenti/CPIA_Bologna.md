@@ -1,7 +1,7 @@
 ---
 title: CPIA Città Metropolitana di Bologna
 preview: L’esperienza col CPIA ha dimostrato quanto gli obiettivi del nostro progetto possano adattarsi ai più differenti contesti
-img: images/didattica_formazione/CPIA_intro.jpg
+img: images/didattica_formazione/CPIA_intro.JPG
 permalink: didattica_formazione/progetti_degli_studenti/CPIA_Bologna
 layout: article
 ---
