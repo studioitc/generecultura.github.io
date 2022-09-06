@@ -1,10 +1,10 @@
 donne-formazione-tecnico-professionale:
   - img: Istruzione C - 1958 volantini inviti UDI-001esterno.jpg
-    caption: Volantino, 1958, Archivio UDI Bologna 
+    caption: Volantino, 1958, Archivio UDI Bologna
   - img: Istruzione D - 1962 volantini UDI-7.jpg
     caption: Volantino, 1962, Archivio UDI Bologna
   - img: Istruzione F - 1962 volantini UDI-6.jpg
-    caption: Volantino, 1962, Archivio UDI Bologna 
+    caption: Volantino, 1962, Archivio UDI Bologna
 istituto-tecnico-feminile-bologna:
   - img: 01.jpg
     caption: Esercitazione di saldatura nell’officina dell’Istituto Tecnico Industriale Femminile di Bologna Archivio Fotografico del Museo del Patrimonio Industriale, Fondo Foto A. Villani, anni 1963-’64
@@ -99,9 +99,9 @@ istruzione-femminile-tra-eta-liberale-e-fascismo:
   - img: istruzione-professionale femminile-1.jpg
     caption: Studentesse al corso di plastica (modellazione della creta) della Scuola Romana di Lavori Manuali, «La Tribuna illustrata», 23/09/1906.
   - img: istruzione-professionale femminile-2.jpg
-    caption: Classe di alunne della scuola d’avviamento di San Marcello Pistoiese. [1928?] Biblioteca Comunale Forteguerriana, Fondo Mostra della Scuola, quaderno 121, p. 8r. 
+    caption: Classe di alunne della scuola d’avviamento di San Marcello Pistoiese. [1928?] Biblioteca Comunale Forteguerriana, Fondo Mostra della Scuola, quaderno 121, p. 8r.
   - img: istruzione-professionale femminile-3.jpg
-    caption: Campioni di ricami effettuati dalle studentesse della scuola di ricamo di Lucciano, Quarrata. La scuola era stata fondata dalla contessa Gabriella Rasponi Spalletti, prima presidente del Comitato Nazionale delle Donne Italiane. Ivi, quaderno 220 (Prodotti e industrie), p. 19 bis r. 
+    caption: Campioni di ricami effettuati dalle studentesse della scuola di ricamo di Lucciano, Quarrata. La scuola era stata fondata dalla contessa Gabriella Rasponi Spalletti, prima presidente del Comitato Nazionale delle Donne Italiane. Ivi, quaderno 220 (Prodotti e industrie), p. 19 bis r.
 cooperative-industriali-maestranze-femminili:
   - img: cooperative-industriali-maestranze-femminili-1.jpg
     caption: Le corsiste della Scuola provinciale per cooperatrici a Codigoro (Ferrara), anni cinquanta, Archivio di Legacoop Estense.
@@ -138,7 +138,7 @@ scuola-regina-elena-pistoia:
   - img: scuola-regina-elena-pistoia-3.jpg
     caption: Prospetto orario della scuola nell’a.s. 1925-26, quando erano attive solo la prima e la seconda classe, Archivio di Stato di Pistoia.
   - img: scuola-regina-elena-pistoia-4.jpg
-    caption: 'Prima pagina di un componimento di un’alunna di prima classe nel 1925. Traccia: “Dopo la visita fatta al serraglio delle bestie feroci venuto da qualche giorno a Pistoia ditene le vostre impressioni”, Archivio di Stato di Pistoia.'
+    caption: "Prima pagina di un componimento di un’alunna di prima classe nel 1925. Traccia: “Dopo la visita fatta al serraglio delle bestie feroci venuto da qualche giorno a Pistoia ditene le vostre impressioni”, Archivio di Stato di Pistoia."
   - img: scuola-regina-elena-pistoia-5.jpg
     caption: Seconda pagina di un componimento di un’alunna di prima classe nel 1925, Archivio di Stato di Pistoia
 istituto-baldini-ravenna:
@@ -356,17 +356,17 @@ istruzione-professionale-femminile-nell-italia-fascista:
   - img: istruzione-professionale-femminile-nell-italia-fascista-7.jpg
     caption: Aula di dattilografia, Regia Scuola Complementare "Maria Laetitia", Torino, 1930 ca., fondo Fototeca, INDIRE
 CPIA_Bologna:
- - img: CPIA 3.jpg
- - img: CPIA 1.jpg
- - img: CPIA 2.jpg
+  - img: CPIA 3.jpg
+  - img: CPIA 1.jpg
+  - img: CPIA 2.jpg
 IC-Sasso-Marconi:
- - img: Disegno-Sascha-Alessio-Silombela.jpg
-   caption: Disegno di Sascha Alessio Silombela
- - img: Poesia-Vanilla-Brighenti.jpg
-   caption: Poesia di Vanilla Brighenti
- - img: Tema-Amanda-Grassi.jpg
-   caption: Tema di Amanda Grassi
- IC-Pepoli:
+  - img: Disegno-Sascha-Alessio-Silombela.jpg
+    caption: Disegno di Sascha Alessio Silombela
+  - img: Poesia-Vanilla-Brighenti.jpg
+    caption: Poesia di Vanilla Brighenti
+  - img: Tema-Amanda-Grassi.jpg
+    caption: Tema di Amanda Grassi
+IC-Pepoli:
   - img: Restituzione 1.jpg
     caption: Considerazioni sul Progetto
   - img: Restituzione 2.jpg
@@ -381,4 +381,3 @@ IC-Sasso-Marconi:
     caption: Progetto Donne
   - img: Simona- Brucchieri-Il-silenzio-imposto.jpg
     caption: Il silenzio imposto, Simona Brucchieri
- 
