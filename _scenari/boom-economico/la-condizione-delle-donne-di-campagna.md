@@ -15,3 +15,7 @@ Un grande problema era infatti quello della sottoccupazione, che aveva una ricad
 Si impose così la necessità di ripensare la famiglia contadina, affinché il sistema tradizionale a carattere patriarcale venisse modificato per riconoscere il nuovo ruolo assunto dalla donna anche nella gestione delle attività agricole. L’agricoltura divenne sempre più “femminilizzata” e UDI avanzò una proposta di legge per la “Piena valutazione del lavoro della donna contadina” (1962) affinché le lavoratrici delle campagne ottenessero il riconoscimento del loro lavoro sotto il profilo salariale e gestionale, come ben sottolinea la ricca documentazione dei fondi archivistici di UDI Bologna, del Museo della Civiltà Contadina di Bentivoglio, della Fondazione Ivano Barberini di Bologna e gli articoli della rivista NoiDonne.
 
 Con la modernizzazione delle campagne, la figura femminile rivendicò l’accesso ai processi tecnologici e all’utilizzo di nuovi strumenti come nel caso del trattore, emblema del ruolo maschile nel mondo agricolo. La modernizzazione, quindi, non fu solo meccanizzazione, bensì anche trasformazione dei ruoli femminili e maschili nei processi di trasformazione in corso. Si aprì in tal modo una nuova stagione nelle campagne che porterà, negli anni Settanta, accanto alle rivendicazioni cittadine, a richiedere ruoli esecutivi e qualificati per le donne anche per quanto riguarda le occupazioni agricole.
+
+---
+
+### Fonti e documenti
