@@ -20,13 +20,10 @@ La varietà della propria produzione porta La Perla ad affermarsi nel panorama i
 
 Masotti guida La Perla sino al 1981, quando lascia le redini a suo figlio. Muore nel 1992.
 
-
 ---
 
 ### Bibliografia
 
-K. Brentani, L. Lusetti (a cura di), Le donne che fecero l’impresa. Nessun pensiero è mai troppo grande, Modena, Edizioni del Loggione, 2016.
-
-I. Cardinali, La Perla: Lingerie and Desire, Rizzoli, New York, 2012.
-
-L’impresa della casalinga Ada Masotti: storia e mito de La Perla, il più prezioso marchio italiano di lingerie in [https://youmanist.it/categories/cultura/masotti-la-perla](https://youmanist.it/categories/cultura/masotti-la-perla).
+- K. Brentani, L. Lusetti (a cura di), Le donne che fecero l’impresa. Nessun pensiero è mai troppo grande, Modena, Edizioni del Loggione, 2016.
+- I. Cardinali, La Perla: Lingerie and Desire, Rizzoli, New York, 2012.
+- L’impresa della casalinga Ada Masotti: storia e mito de La Perla, il più prezioso marchio italiano di lingerie in [https://youmanist.it/categories/cultura/masotti-la-perla](https://youmanist.it/categories/cultura/masotti-la-perla).
