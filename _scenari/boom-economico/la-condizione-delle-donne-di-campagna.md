@@ -16,6 +16,7 @@ Si impose così la necessità di ripensare la famiglia contadina, affinché il s
 
 Con la modernizzazione delle campagne, la figura femminile rivendicò l’accesso ai processi tecnologici e all’utilizzo di nuovi strumenti come nel caso del trattore, emblema del ruolo maschile nel mondo agricolo. La modernizzazione, quindi, non fu solo meccanizzazione, bensì anche trasformazione dei ruoli femminili e maschili nei processi di trasformazione in corso. Si aprì in tal modo una nuova stagione nelle campagne che porterà, negli anni Settanta, accanto alle rivendicazioni cittadine, a richiedere ruoli esecutivi e qualificati per le donne anche per quanto riguarda le occupazioni agricole.
 
+
 ---
 
 ### Fonti e documenti
