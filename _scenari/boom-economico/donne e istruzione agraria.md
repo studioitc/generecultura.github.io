@@ -1,7 +1,7 @@
 ---
 title: Donne e istruzione tecnica agraria, le prime perite (1950-1970)
 preview: All’indomani della seconda Guerra mondiale, l’istruzione tecnica agraria è ancora normata dalla legge 15 giugno 1931, n. 889 sul “Riordinamento dell’istruzione media tecnica”, mentre i programmi didattici sono gli stessi redatti nel 1936.
-img: images/scenari/Donne e istruzione agraria-1.jpg
+img: images/scenari/Donne e istruzione agraria-intro.jpg
 permalink: /scenari/boom-economico/donne e istruzione agraria
 layout: article
 ---
