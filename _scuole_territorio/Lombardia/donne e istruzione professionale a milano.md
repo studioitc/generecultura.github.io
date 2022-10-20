@@ -2,7 +2,7 @@
 title: Donne e istruzione professionale a Milano nel Novecento
 preview: Le prime forme di istruzione professionale a Milano risalgono al XIX secolo, tra le quali la emerge l’attività della Società generale di mutuo soccorso per operaie nel 1862. Pochi anni dopo, nel 1870 nascono le Scuole professionali femminili.
 img: images/scuole_territorio/donne e istruzione professionale a milano-1.jpg
-permalink: /scuole_territorio/Lombardia/donne e istruzione professionale a milano
+permalink: scuole_territorio/Lombardia/donne e istruzione professionale a milano
 layout: article
 ---
 
