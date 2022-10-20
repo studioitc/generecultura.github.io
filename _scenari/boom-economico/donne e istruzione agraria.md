@@ -14,9 +14,11 @@ Nel 1961, il D.P.R. 30 settembre 1961 n. 1222 riformula i programmi didattici ed
 Tra l’immediato dopoguerra e la fine degli anni Sessanta, l’incidenza delle studentesse sul totale degli studenti iscritti a questi istituti passa dallo 0,02% del 1946-’47 (6.463 iscritti) al 6,6% dell’a.s. 1969-’70 (15.460), per la maggior parte concentrate nell’Italia meridionale.
 
 ### Bibliografia
-Alessandra Cantagalli, Istruzione e tecnica. I periti industriali dall’Ottocento a oggi, Bologna, Bononia University Press, 2012.
-ISTAT, Annuario statistico italiano, Roma, Istituto poligrafico dello Stato, 1944-'48, 1971.
-Legge 15 giugno 1931, n. 889, Riordinamento dell'istruzione media tecnica.
+- Alessandra Cantagalli, *Istruzione e tecnica. I periti industriali dall’Ottocento a oggi*, Bologna, Bononia University Press, 2012.
+
+- ISTAT, Annuario statistico italiano, Roma, Istituto poligrafico dello Stato, 1944-'48, 1971.
+
+- Legge 15 giugno 1931, n. 889, Riordinamento dell'istruzione media tecnica.
 
 
 ---
