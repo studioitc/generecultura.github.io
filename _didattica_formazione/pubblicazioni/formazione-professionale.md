@@ -3,7 +3,7 @@ title: Genere, lavoro e formazione professionale nell’Italia contemporanea
 preview: A cura di Eloisa Betti e Carlo De Maria. OttocentoDuemila Italia-Europa-Mondo 7
 img: images/news/Betti-DeMaria-genere-lavoro-formazione-2021.jpg
 layout: article
-permalink: didattica_formazione/pubblicazioni/formazione-professionale
+permalink: /didattica_formazione/pubblicazioni/formazione-professionale
 archived: false
 ---
 
