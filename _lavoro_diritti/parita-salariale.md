@@ -1,7 +1,7 @@
 ---
 title: La legislazione nazionale sulla parità salariale
-layout: article
 permalink: /lavoro_diritti/parita-salariale
+layout: article
 ---
 
 ## Il decreto luogotenenziale del 1° febbraio 1945
