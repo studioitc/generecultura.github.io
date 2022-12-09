@@ -39,7 +39,7 @@
 - title: "Lavoro/Diritti"
   sub:
     - title: Cittadine e lavoratrici
-      url: /lavoro_diritti/parita-salariale/
+      url: /lavoro_diritti/parita-salariale
     - title: Diritti fondamentali e di parità
       url: /lavoro_diritti/diritti-parita-ilo/
 - title: "Fonti/Archivi"
@@ -55,6 +55,8 @@
   - title: Progetti degli studenti
     url: /didattica_formazione/progetti_degli_studenti
   - title: Percorsi laboratoriali
+    url: "#"
+  - title: Pubblicazioni del progetto
     url: "#"
 - title: Video
   sub: 
