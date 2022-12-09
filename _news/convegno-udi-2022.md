@@ -7,4 +7,6 @@ permalink: news/convegno-udi-2022
 archived: false
 ---
 
+Convegno finale progetto “Genere, lavoro e cultura tecnica”, 2021-22
+
 [Scarica la locandina](../../images/news/convegno-udi-2022.pdf)
