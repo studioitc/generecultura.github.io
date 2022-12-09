@@ -3,7 +3,7 @@ title: Le ombre del fordismo
 preview: Sviluppo industriale, occupazione femminile e precarietà del lavoro nel trentennio glorioso
 img: images/news/le-ombre-del-fordismo-2020.jpg
 layout: article
-permalink: news/ombre-fordismo
+permalink: didattica_formazione/pubblicazioni/ombre-fordismo
 archived: false
 ---
 
