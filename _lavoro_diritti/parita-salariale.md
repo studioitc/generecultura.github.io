@@ -6,7 +6,7 @@ layout: article
 
 ## Il decreto luogotenenziale del 1° febbraio 1945
 
-![Parità salariale 1945](../../images/lavoro_diritti/parita-salariale/parita-salariale-1.jpeg)
+![Parità salariale 1945](images/lavoro_diritti/parita-salariale/parita-salariale-1.jpeg)
 
 
 Il decreto luogotenenziale del 1° febbraio 1945 conferisce il diritto di voto alle donne che abbiano compiuto 21 anni. Le uniche donne ad essere ancora escluse dal diritto di voto sono le prostitute schedate che esercitino il proprio mestiere al di fuori delle cc.dd. “case di tolleranza”.
@@ -20,7 +20,7 @@ Solo l’anno successivo, tuttavia, con il decreto luogotenenziale n. 47 del 10 
 
 ## La legge del 26 agosto 1950
 
-![Parità salariale 1950](../../images/lavoro_diritti/parita-salariale/parita-salariale-2.jpeg)
+![Parità salariale 1950](images/lavoro_diritti/parita-salariale/parita-salariale-2.jpeg)
 
 
 La legge approvata il 26 agosto del 1950 per la tutela fisica ed economica delle lavoratrici madri è proposta e fortemente voluta da Teresa Noce (PCI) e sostenuta da Maria Federici (DC).
@@ -37,7 +37,7 @@ Si stabilisce un’indennità giornaliera per l’assenza obbligatoria, dalla da
 ## La ratifica della convenzione OIL n.100 nel 1956
 
 
-![Parità salariale 1956](../../images/lavoro_diritti/parita-salariale/parita-salariale-3.jpeg)
+![Parità salariale 1956](images/lavoro_diritti/parita-salariale/parita-salariale-3.jpeg)
 
 
 A seguito della ratifica della convenzione OIL n. 100 nel 1956, con il trattato di Roma viene sancita la c.d. parità salariale e di trattamento tra lavoratori uomini e lavoratrici donne.
@@ -52,7 +52,7 @@ In egual modo si afferma il significato/definizione di parità di retribuzione e
 ## La legge n.339 del 2 aprile 1958
 
 
-![Parità salariale 1958](../../images/lavoro_diritti/parita-salariale/parita-salariale-4.jpeg)
+![Parità salariale 1958](images/lavoro_diritti/parita-salariale/parita-salariale-4.jpeg)
 
 
 Il lavoro domestico viene disciplinato con la legge del 2 aprile 1958 n. 339.
@@ -67,7 +67,7 @@ S’intendono per addetti ai servizi personali domestici i lavoratori di ambo i 
 ## L’accordo interconfederale nell’industria del 16 luglio 1960
 
 
-![Parità salariale 1960](../../images/lavoro_diritti/parita-salariale/parita-salariale-5.jpeg)
+![Parità salariale 1960](images/lavoro_diritti/parita-salariale/parita-salariale-5.jpeg)
 
 
 Il 16 luglio 1960 viene stipulato a Milano l’accordo interconfederale nell’industria per la parità di retribuzione tra lavoratori e lavoratrici tra le sigle sindacali Cgil, Cisl e Uil e Confindustria in rappresentanza delle aziende private e Intersind in rappresentanza delle aziende pubbliche.
@@ -82,7 +82,7 @@ Nonostante l’importante cambiamento, spesso le donne erano inquadrate nelle qu
 ## La legge n.7 del 9 gennaio 1963
 
 
-![Parità salariale gennaio 1963](../../images/lavoro_diritti/parita-salariale/parita-salariale-6.jpeg)
+![Parità salariale gennaio 1963](images/lavoro_diritti/parita-salariale/parita-salariale-6.jpeg)
 
 
 La legge n. 7 del 9 gennaio 1963 sancisce il divieto di licenziamento nei confronti delle lavoratrici che abbiano convolato a nozze.
@@ -97,7 +97,7 @@ La legge del 1963 stabilisce dunque che siano da considerare nulle le clausole d
 ## La legge del 9 febbraio 1963
 
 
-![Parità salariale febbraio 1963](../../images/lavoro_diritti/parita-salariale/parita-salariale-7.jpeg)
+![Parità salariale febbraio 1963](images/lavoro_diritti/parita-salariale/parita-salariale-7.jpeg)
 
 
 La legge del 9 febbraio 1963 sancisce l’ammissione della donna ai pubblici uffici e alle professioni.
@@ -112,7 +112,7 @@ Rimane escluso l’arruolamento nelle Forze Armate e nei corpi speciali, regolat
 ## La legge del 15 settembre 1964
 
 
-![Parità salariale 1964](../../images/lavoro_diritti/parita-salariale/parita-salariale-8.jpeg)
+![Parità salariale 1964](images/lavoro_diritti/parita-salariale/parita-salariale-8.jpeg)
 
 
 La legge del 15 settembre 1964 stabilisce l’eguaglianza tra uomo e donna nel lavoro agricolo, l’art. 7 precisava “ai fini della presente legge, il lavoro della donna è considerato equivalente a quello dell'uomo”.
@@ -125,7 +125,7 @@ Era così abolito il “coefficiente Serpieri”, regolamento del periodo fascis
 ## La legge del 30 dicembre 1971
 
 
-![Parità salariale 1971](../../images/lavoro_diritti/parita-salariale/parita-salariale-9.jpeg)
+![Parità salariale 1971](images/lavoro_diritti/parita-salariale/parita-salariale-9.jpeg)
 
 
 La legge emanata il 30 dicembre 1971 definisce la tutela fisica ed economica delle lavoratrici madri, introducendo notevoli miglioramenti rispetto alla legge 860/1950.
@@ -142,7 +142,7 @@ Il periodo di assenza obbligatoria dal lavoro per le gestanti è di due mesi pri
 ## Il piano statale del 6 dicembre 1971
 
 
-![Parità salariale dicembre 1971](../../images/lavoro_diritti/parita-salariale/parita-salariale-10.jpeg)
+![Parità salariale dicembre 1971](images/lavoro_diritti/parita-salariale/parita-salariale-10.jpeg)
 
 
 Il 6 dicembre 1971 viene approvato un piano statale che prevede l’istituzione di asili nido, considerati come un servizio sociale di interesse pubblico e parte integrante delle politiche per la famiglia.
