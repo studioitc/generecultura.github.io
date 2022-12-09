@@ -3,7 +3,7 @@ title: Donne, lavoro e diritti in Europa. A partire da Vinka Kitarovic
 preview: A cura di Eloisa Betti e Carlo De Maria. Clionet. Per un senso del tempo e dei luoghi, 2022
 img: images/news/dossier-clionet-udi.jpg
 layout: article
-permalink: didattica_formazione/pubblicazioni/dossier-clionet
+permalink: /didattica_formazione/pubblicazioni/dossier-clionet
 archived: false
 ---
 
