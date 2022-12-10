@@ -1,10 +1,9 @@
 ---
 title: Scuola officina
 preview: Museo del patrimonio industriale di Bologna
-img: images/news/scuola-officina-1-2020.jpg
-layout: article
+img: images/didattica_formazione/scuola-officina.jpg
 permalink: /didattica_formazione/pubblicazioni/scuola-officina-2020
-archived: false
+layout: article
 ---
 
-[Scarica l’indice](../../images/news/scuola-officina-1-2020.pdf)
+[Scarica l’indice](../../images/didattica_formazione/scuola-officina.pdf)
