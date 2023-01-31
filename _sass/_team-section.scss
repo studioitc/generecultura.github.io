@@ -5,12 +5,14 @@
 ====================================================================
 
  ***/
- 
+
 #team-section {
   .team-member-wrapper {
+    display: flex;
+    flex-wrap: wrap;
     margin: 60px 0 0 0;
 
-    .float-left {
+    .flex-post {
       width: 33.333333333%;
       padding: 0 15px;
       overflow: hidden;
@@ -25,30 +27,34 @@
     }
 
     .img {
+      height: 250px;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
       .opacity {
         position: absolute;
-        top:0;
-        left:0;
+        top: 0;
+        left: 0;
         right: 0;
         bottom: 0;
         padding: 55px 0 20px 0;
         opacity: 0;
-        -webkit-transform: scale(1,0);
-          -moz-transform: scale(1,0);
-            -ms-transform: scale(1,0);
-            -o-transform: scale(1,0);
-                transform: scale(1,0);
+        -webkit-transform: scale(1, 0);
+        -moz-transform: scale(1, 0);
+        -ms-transform: scale(1, 0);
+        -o-transform: scale(1, 0);
+        transform: scale(1, 0);
         -ms-transform-origin: 0% 0%; /* IE 9 */
         -webkit-transform-origin: 0% 0%; /* Chrome, Safari, Opera */
         transform-origin: 0% 0%;
-        background: rgba($color: $red, $alpha: .5);
-        a{
-            color: #ffffff;
+        background: rgba($color: $red, $alpha: 0.5);
+        a {
+          color: #ffffff;
         }
 
         h4,
         span {
-          color:#696f78;
+          color: #696f78;
           text-transform: capitalize;
         }
 
@@ -78,7 +84,6 @@
           color: #373a3f;
           padding: 0 40px;
         }
-
       } // .opacity
     } //. img
 
@@ -88,14 +93,14 @@
         position: relative;
         min-height: 70px;
 
-        background: rgba($color: $red, $alpha: .5);
-        a{
-            color: #ffffff !important;
+        background: rgba($color: $red, $alpha: 0.5);
+        a {
+          color: #ffffff !important;
         }
 
         h6 {
           text-transform: none;
-          color:#696f78;
+          color: #696f78;
           margin-top: 12px;
         }
       }
@@ -103,13 +108,12 @@
       &:hover {
         .img {
           .opacity {
-  
             opacity: 1;
             -webkit-transform: scale(1);
-              -moz-transform: scale(1);
-                -ms-transform: scale(1);
-                -o-transform: scale(1);
-                    transform: scale(1);
+            -moz-transform: scale(1);
+            -ms-transform: scale(1);
+            -o-transform: scale(1);
+            transform: scale(1);
             h4,
             span,
             p {

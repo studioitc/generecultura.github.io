@@ -93,9 +93,10 @@ img { max-width: 100%; display: block; }
 ==================================================================== Team Section
 ====================================================================
  **/
-#team-section .team-member-wrapper { margin: 60px 0 0 0; }
-#team-section .team-member-wrapper .float-left { width: 33.333333333%; padding: 0 15px; overflow: hidden; margin-bottom: 30px; }
+#team-section .team-member-wrapper { display: flex; flex-wrap: wrap; margin: 60px 0 0 0; }
+#team-section .team-member-wrapper .flex-post { width: 33.333333333%; padding: 0 15px; overflow: hidden; margin-bottom: 30px; }
 #team-section .team-member-wrapper .single-team-member, #team-section .team-member-wrapper .single-team-member .img { overflow: hidden; position: relative; text-align: center; }
+#team-section .team-member-wrapper .img { height: 250px; background-repeat: no-repeat; background-position: center; background-size: contain; }
 #team-section .team-member-wrapper .img .opacity { position: absolute; top: 0; left: 0; right: 0; bottom: 0; padding: 55px 0 20px 0; opacity: 0; -webkit-transform: scale(1, 0); -moz-transform: scale(1, 0); -ms-transform: scale(1, 0); -o-transform: scale(1, 0); transform: scale(1, 0); -ms-transform-origin: 0% 0%; /* IE 9 */ -webkit-transform-origin: 0% 0%; /* Chrome, Safari, Opera */ transform-origin: 0% 0%; background: rgba(215, 62, 77, 0.5); }
 #team-section .team-member-wrapper .img .opacity a { color: #ffffff; }
 #team-section .team-member-wrapper .img .opacity h4, #team-section .team-member-wrapper .img .opacity span { color: #696f78; text-transform: capitalize; }
