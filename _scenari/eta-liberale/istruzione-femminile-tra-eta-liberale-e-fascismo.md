@@ -1,5 +1,5 @@
 ---
-title: Lavoro femminile, boom economico industrializzazione 
+title: Istruzione professionale femminile tra Ottocento e Novecento
 preview: Cos’è oggi l’istruzione professionale e quali scopi si prefigge? Nessuno probabilmente avrebbe problemi a rispondere a questa domanda.
 img: images/scenari/istruzione-femminile-tra-eta-liberale-e-fascismo.jpg
 permalink: /scenari/eta-liberale/istruzione-femminile-tra-eta-liberale-e-fascismo
