@@ -1,5 +1,5 @@
 ---
-title: La legislazione nazionale sulla parità salariale
+title: La legislazione nazionale sul lavoro femminile
 permalink: /lavoro_diritti/parita-salariale
 layout: article
 ---
