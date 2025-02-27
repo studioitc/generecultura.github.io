@@ -1,7 +1,7 @@
 ---
 title: Manifesti
 layout: article
-permalink: /_didattica_formazione/manifesti
+permalink: /didattica_formazione/manifesti
 
 ---
 
