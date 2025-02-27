@@ -7,6 +7,8 @@ permalink: /didattica_formazione/manifesti
 
 ## MANIFESTI SERVIZI SOCIALI
 
+
+
 ![Udi Nazionale](../images/didattica_formazione/SS-NA-01.jpg)
 
 Udi Nazionale, Assemblea nazionale sul tema degli asili nido, 1964
