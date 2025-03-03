@@ -5,7 +5,7 @@ permalink: /didattica_formazione/manifesti
 
 ---
 
-## MANIFESTI SERVIZI SOCIALI
+## MANIFESTI SUL TEMA DEI SERVIZI SOCIALI
 
 
 
@@ -56,7 +56,7 @@ Udi Regionale, Prima grande vittoria per gli asili nido, 1971
 
 ---
 
-## MANIFESTI LAVORO
+## MANIFESTI SUL TEMA DEL LAVORO
 
 
 
