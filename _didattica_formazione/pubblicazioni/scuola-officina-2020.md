@@ -6,4 +6,4 @@ permalink: /didattica_formazione/pubblicazioni/scuola-officina-2020
 layout: article
 ---
 
-[Open Access]((https://www.museibologna.it/patrimonioindustriale/schede/arretrati-on-line-701/)
+[Open Access](https://www.museibologna.it/patrimonioindustriale/schede/arretrati-on-line-701/)
